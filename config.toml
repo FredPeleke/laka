@@ -1,5 +1,5 @@
 ########################### Default configuration ######################
-baseURL = ""
+baseURL = "https://dev-stephanie-lacassagne.netlify.app"
 title = ""
 onglet = "Stéphanie Lacassagne"
 theme = "bexar-hugo"
