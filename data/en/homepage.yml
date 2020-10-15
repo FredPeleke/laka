@@ -1,0 +1,213 @@
+########################### hero slider ############################
+slider:
+  enable : true
+  slider_item:
+    # slider item
+    - subtitle : "praticienne EFT / Matrix Reimprinting et sexothérapeute"
+      title : "Stéphanie Lacassagne"
+      content : ""
+      bg_image_webp : "images/slider/hero-bulles-blc."
+      bg_image : "images/slider/hero-bulles-blc.jpg"
+      animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
+      button:
+        enable : false
+        label : "more details"
+        link : "about"
+        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
+        
+
+################################## bandeau ############################
+banner_feature:
+  enable : false
+  # Max use 4 item
+  feature_item:
+    # banner feature item loop
+    - name : "EFT & Matrix Reimprinting"
+      icon : "fa-refresh" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      
+    # banner feature item loop
+    - name : "Sexologie"
+      icon : "fa-unlock-alt" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "Lorem ipsum dolor sit amet constur adipelit sed."
+      
+
+
+
+################################## Qui suis-je ? ####################################
+about:
+  enable : true
+  subtitle : "Qui suis-je ?"
+  title : "Stéphanie Lacassagne"
+  content : "Je vis et travaille à Bayonne avec fierté et bonheur depuis plusieurs années.
+
+
+  Optimiste, enthousiaste et très intéressée par l’être humain, on dit de moi que je sais être à l’écoute, bienveillante, chaleureuse et engagée.
+
+
+  J’assure deux missions professionnelles distinctes : une partie de mon temps de travail est consacrée au métier d’assistante sociale, l’autre au métier de sexothérapeute et praticienne EFT / Matrix Reimprinting.
+
+
+  Le bonheur (le mien et celui des autres) est ma quête permanente, tant à titre privé que professionnel."
+  bg_image : ""
+  image_webp : "images/about/stephanie-lacassagne-portrait.webp"
+  image : "images/about/stephanie-lacassagne-portrait.jpg"
+  button:
+    enable : false
+    label : "more service"
+    link : "service"
+
+################################## Parcours ####################################
+parcours:
+  enable : true
+  subtitle : "Mon parcours"
+  title : "Diplômée d'état"
+  content : "Depuis 1993, je suis assistante sociale diplômée de l’Institut du Travail Social de Pau, j’exerce ce métier depuis 25 ans.
+
+
+  J’ai été formée durant trois années au sein de l’école de Psycho-Sexologie de Paris-La Défense (2017 -2020). 
+
+
+  [Mon mémoire de fin de formation](images/Stephanie-Lacassagne-memoire-min.pdf) était dédié à l’acceptation de l’homosexualité. 
+
+
+  Sensible aux techniques de psychologie énergétique, utiles et efficaces pour permettre un apaisement émotionnel, un mieux-être, j’ai choisi de me former. Je suis praticienne EFT et Matrix Reimprinting diplômée, formée à l’IFPEC (Institut Français de Psychothérapie Emotionnelle et Cognitive).
+
+
+  J’accompagne des patients depuis 2018. Afin de garantir des prises en charge de qualité en tant que sexologue et praticienne EFT/Matrix Reimprinting, je suis supervisée régulièrement. Je suis affiliée au Syndicat Nationale des Sexologues Cliniciens."
+  bg_image : ""
+  image_webp : "images/about/Diplome-Stephanie-Lacassagne-Praticien.webp"
+  image : "images/about/Diplome-Stephanie-Lacassagne-Praticien.jpg"
+  button:
+    enable : false
+    label : "more service"
+    link : "service"
+
+################################## partenaires ###############################
+partenaires :
+  enable : true
+  partenaires_item :
+    - image : "images/about/logo-egitegia.png"
+      lien : "https://www.egitegia.fr"
+      alt : "logo Egitegia"
+    - image : "images/about/logo-ifpec.jpg"
+      lien : "https://ifpec.org/"
+      alt : "logo IFPEC"
+    - image : "images/about/logo-SNSC-PastedGraphic.png"
+      lien : "https://www.snsc.fr/people"
+      alt : "logo SNSC"
+    - image : "images/about/logo-ecole-de-psycho-sexologie.png"
+      lien : "https://www.ecole-de-psycho-sexologie.com/"
+      alt : "logo École de Psycho-sexologie"
+
+################################## funfacts ###############################
+funfacts :
+  enable : false
+  funfacts_item :
+    # fanfacts item loop
+    - name : "project done"
+      count : "50"
+      icon : "fa-bullseye" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      
+    # fanfacts item loop
+    - name : "Years Experience"
+      count : "25"
+      icon : "fa-calendar" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      
+    # fanfacts item loop
+    - name : "Awards Win"
+      count : "250"
+      icon : "fa-trophy" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      
+    # fanfacts item loop
+    - name : "Happy Coustomers"
+      count : "500"
+      icon : "fa-smile-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+
+
+################################# feature ############################################
+feature:
+  enable : false
+  subtitle : "Why Choose Us"
+  title : "Why They Choose Bexar"
+  image_webp : "images/feature/feature.webp"
+  image : "images/feature/feature.jpg"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius tempor incididunt ut labore."
+  feature_item:
+    # feature item loop
+    - name : "Creative Design"
+      icon : "fa-snowflake-o" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+      
+    # feature item loop
+    - name : "Pixel Perfect Coding"
+      icon : "fa-code" # font-awesome 4.7.0 : https://fontawesome.com/v4.7.0/icons/
+      content : "Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia."
+
+################################# service ############################################
+service:
+  enable : false
+  subtitle : "Best Service"
+  title : "Service We Provide"
+  # service item comes from "content/*/service" folder
+
+################################# team ##############################################
+team:
+  enable : false
+  subtitle : "Our Team"
+  title : "We Are Dynamic Team and <br> Business Agency"
+  # team member comes from "content/*/team" folder
+
+################################# project ############################################
+project:
+  enable : false
+  subtitle : "Case Study"
+  title : "Bexar Case Studies"
+  button:
+    enable : true
+    label : "more projects"
+    link : "project"
+  # project item comes from "content/*/project" folder
+
+################################# testimonial #########################################
+testimonial:
+  enable : false
+  subtitle : "Testimonials"
+  title : "What Clients Are Say?"
+  testimonial_item:
+    # testimonial item loop
+    - client_image : "images/testimonial/client-1.jpg"
+      name : "Dominic Allen"
+      designation : "Designer"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
+      
+    # testimonial item loop
+    - client_image : "images/testimonial/client-2.jpg"
+      name : "Alex Pitt"
+      designation : "Designer"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
+
+    # testimonial item loop
+    - client_image : "images/testimonial/client-3.jpg"
+      name : "John Doe"
+      designation : "Designer"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit sed eiusmod tempor incididunt ut labore dolore magna aliqua.enim ad minim veniam.quis nostrud exercitation ullamco laboris nis aliquip ex ea commodo consequat. duis aute irure dolor in reprehen."
+
+
+################################# blog ################################################
+cta:
+  enable : false
+  title : "Bexar give the smart solution for your business"
+  bg_image_webp : "images/backgrounds/cta-lg.webp"
+  bg_image : "images/backgrounds/cta-lg.jpg"
+  button:
+    enable : true
+    label : "get a quote"
+    link : "contact"
+
+################################# blog ################################################
+blog:
+  enable : false
+  subtitle : "Latest News"
+  title : "Learn From Bexar"
+  # blog post comes from "content/*/blog" folder

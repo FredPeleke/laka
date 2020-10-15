@@ -1,0 +1,65 @@
+- id: read_more
+  translation: En savoir plus
+  
+- id: address
+  translation: Me trouver
+
+- id: phone
+  translation: M'appeler au
+
+- id: email
+  translation: Me contacter à
+
+- id: contact_form
+  translation: Formulaire de contact
+
+- id: send
+  translation: Envoyer le message
+
+- id: follow
+  translation: Suivez-moi sur
+
+- id: services
+  translation: Services
+
+- id: contact_info
+  translation: Contactez-moi
+
+- id: subscribe_newsletter
+  translation: S'inscrire à la Newsletter
+
+- id: subscribe
+  translation: S'inscrire
+
+- id: connect_with_us
+  translation: Restons connectés
+
+- id: call_now
+  translation: J'appelle
+
+- id: search_placeholder
+  translation: Je cherche …
+
+- id: quick_contact
+  translation: Contact rapide
+
+- id: latest_article
+  translation: Dernier article
+
+- id: category
+  translation: Catégories
+
+- id: tags
+  translation: Tags
+
+- id: all
+  translation: Tout
+
+- id: client
+  translation: client
+
+- id: date
+  translation: date
+
+- id: status
+  translation: statut

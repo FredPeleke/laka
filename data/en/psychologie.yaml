@@ -1,0 +1,49 @@
+
+################################## Qu’est-ce que la psychologie énergétique ? ####################################
+psychologie:
+  enable : true
+  title : "Qu’est-ce que la psychologie énergétique ?"
+  content : "Les neurosciences ont montré que tous les événements que nous vivons sont enregistrés dans notre inconscient. Plus un événement est chargé émotionnellement plus il est présent dans notre mémoire et également dans les cellules de notre corps, à notre insu. Les traumatismes, petits ou grands, laissent des « cicatrices émotionnelles » à l’intérieur de chacun d’entre nous. Ces « cicatrices » sont en réalité des perturbations énergétiques inscrites dans nos corps.
+
+
+  La psychologie énergétique est issue de la médecine traditionnelle chinoise. Elle permet, par le biais de stimulations de points spécifiques sur le corps, de réguler les émotions bloquées en chacun de nous avec des changements rapides, spectaculaires et durables.  
+
+
+  Les sexologues non-médecins nommés psycho-sexologues ou sexothérapeutes sont aptes à évaluer et comprendre l’origine des difficultés d’ordre psychologique ou émotionnel rencontrées par les patients. Ils sont compétents pour accompagner ces patients sur le chemin de la résolution de leurs difficultés sexuelles, intimes, relationnelles, affectives par le biais d’une prise en charge thérapeutique."
+
+################################## L’EFT et Matrix Reimprinting :  ####################################
+matrix:
+  enable : true
+  title : "L’EFT et Matrix Reimprinting :"
+  content : "Ce sont des techniques de psychologie énergétique dites de thérapies brèves, qui visent à équilibrer et harmoniser le corps et l’esprit. L’EFT signifie Emotional Freedom Technique soit technique de libération émotionnelle. Elle est pratiquée en France depuis une vingtaine d’année, tandis qu’il existe pour le moment peu de praticiens formés à Matrix Reimprinting. Ces méthodes gagnent à être connues du fait de leur efficacité, de leur simplicité, de leur effet durable, et du caractère doux et non invasif des techniques utilisées. 
+
+
+  L’EFT est basée sur la résolution de difficultés liées à des souvenirs, des évènements ou des émotions invalidants grâce à des tapotements sur des méridiens d’acupuncture au niveau du visage, du torse et de la main. L’EFT agit sur le physique (tapotements), le mental (formulation de quelques phrases) et l’émotionnel (concentration sur l’émotion ressentie).
+
+
+  Matrix Reimprinting signifie ré-encodage de la matrice, c’est une technique encore peu développée en France. Issue de l’EFT, elle va encore plus loin dans la transformation intérieure. Elle permet de modifier nos parts intérieures blessées : grâce à des tapotements sur des méridiens d’acupuncture associés à un travail en imagination de réimpression sensorielle."
+
+################################### Quand et pourquoi consulter ###########################
+pourquoi:
+  enable : true
+  title : "Quand et pourquoi consulter ?"
+  subtitle : "Il est utile de consulter pour une ou plusieurs séances de psychologie énergétique quand :"
+  bullet_point:
+    - "on souffre d’une émotion invalidante car débordante comme la peur, tristesse, honte, culpabilité, colère"
+    - "on est envahi, bloqué par un évènement traumatique comme un accident, une maladie, un décès, une difficulté professionnelle, familiale, une situation relationnelle problématique"
+    - "on souffre dans son corps, d’une douleur physique, d’une blessure"
+    - "on a une ou plusieurs phobies"
+  content : "L’EFT et Matrix Reimprinting sont des techniques très efficaces pour un apaisement rapide et durable. Ces techniques douces et non invalidantes fonctionnent très bien avec les enfants ainsi qu’avec des personnes de tout âge, dans toute situation. L’EFT est un outil intéressant car une fois la technique connue, après une ou plusieurs séances, chacun peut l’utiliser seul, pour soi-même et/ou pour un de ses proches. Il est ainsi possible de prendre en charge instantanément une montée émotionnelle en auto-application.  A l’issue des consultations, les patients peuvent recevoir un schéma récapitulant la technique en vue d’un usage personnel."
+
+################################## Déroulement  ####################################
+deroulement:
+  enable : true
+  title : "Déroulement des consultations"
+  content : "Ces techniques de psychologie énergétique ne nécessitent pas de parler longuement de la difficulté, comme on le ferait dans le cadre d’une psychanalyse ou d’une psychothérapie. Il suffit simplement d’évoquer en quelques phrases la situation problème, d’en décrire les déclencheurs, les effets dans la vie quotidienne. Puis, le patient se laisse guider par le thérapeute tout au long de la séance. Certaines difficultés peuvent être résolues en une séance, d’autres en plusieurs rendez-vous.
+
+
+  Tarifs : une séance dure une heure et coûte 50€. Règlements acceptés : espèces, chèques ou virement bancaire. 
+
+
+  Lieu de consultation : association Ekitegia, 33 chemin de l’aquitaine à Bayonne."
+

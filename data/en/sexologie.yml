@@ -1,0 +1,139 @@
+################################## Intro Quand et pourquoi consulter ####################################
+intro:
+  enable : true
+  subtitle : ""
+  title : "Qu’est-ce que la sexologie ?"
+  content : "La sexologie est l’étude de la sexualité humaine.
+
+
+  La sexothérapie a pour but d’aider à l’épanouissement de l’être humain dans sa vie personnelle, relationnelle, affective, sentimentale, amoureuse, intime, sexuelle. 
+
+
+  Les sexologues médecins peuvent ausculter les patients, leur prescrire des examens et des traitements médicaux. Ainsi ils dépistent et traitent les causes organiques qui peuvent expliquer des troubles sexuels. 
+
+
+  Les sexologues non-médecins nommés psycho-sexologues ou sexothérapeutes sont aptes à évaluer et comprendre l’origine des difficultés d’ordre psychologique ou émotionnel rencontrées par les patients. Ils sont compétents pour accompagner ces patients sur le chemin de la résolution de leurs difficultés sexuelles, intimes, relationnelles, affectives par le biais d’une prise en charge thérapeutique.
+
+
+  Il est fortement recommandé de s’adresser à des sexothérapeutes formés et diplômés : c’est une garantie de sérieux et de qualité des soins. Toutefois, cette spécialité n’est pas encore reconnue en France, ni réglementée, quiconque peut se prétendre sexothérapeute et s’installer en tant que tel. La sexologie clinique n’est pas prise en charge par la sécurité sociale, mais certaines mutuelles remboursent quelques consultations."
+
+################################### Quand et pourquoi consulter ###########################
+pourquoi:
+  enable : true
+  title : "Quand et pourquoi consulter ?"
+  content: "Il est recommandé de consulter dès la survenue d’une préoccupation, d’une interrogation, d’une difficulté, d’un malaise, d’un inconfort, d’une douleur ou d’un blocage en matière de sexualité. Mais il est tout à fait possible de consulter à n’importe quel moment, même si les difficultés sont installées. Généralement, consulter un sexothérapeute sera une aide précieuse dans le cadre de :"
+  bullet_point:
+    - "l’éducation à la sexualité à tout âge"
+    - "problèmes relationnels, conjugaux"
+    - "troubles de l’érection"
+    - "troubles de l’éjaculation"
+    - "troubles du désir sexuel"
+    - "compulsions sexuelles"
+    - "questions liées à la masturbation, aux fantasmes sexuels"
+    - "difficultés à atteindre l’orgasme"
+    - "la sexualité en cas de maladie, d’effets secondaires liés aux traitements"
+    - "douleurs ou difficultés liées à la pénétration"
+    - "difficultés liées aux violences sexuelles"
+    - "questions liées à la parentalité"
+    - "questions liées à l’orientation sexuelle"
+    - "questions liées au genre"
+
+################################### Quand et pourquoi consulter ###########################
+philosophy:
+  enable : false
+  philosophy_item:
+    # philosophy item loop
+    - title : "Quand et pourquoi consulter ?"
+      content: "Il est recommandé de consulter dès la survenue d’une préoccupation, d’une interrogation, d’une difficulté, d’un malaise, d’un inconfort, d’une douleur ou d’un blocage en matière de sexualité. Mais il est tout à fait possible de consulter à n’importe quel moment, même si les difficultés sont installées. Généralement, consulter un sexothérapeute sera une aide précieuse dans le cadre de :"
+      bullet_point:
+        - "l’éducation à la sexualité à tout âge"
+        - "problèmes relationnels, conjugaux"
+        - "troubles de l’érection"
+        - "troubles de l’éjaculation"
+        - "troubles du désir sexuel"
+        - "compulsions sexuelles"
+    # philosophy item loop
+    - title : "Quand et pourquoi consulter ?"
+      content: "Il est recommandé de consulter dès la survenue d’une préoccupation, d’une interrogation, d’une difficulté, d’un malaise, d’un inconfort, d’une douleur ou d’un blocage en matière de sexualité. Mais il est tout à fait possible de consulter à n’importe quel moment, même si les difficultés sont installées. Généralement, consulter un sexothérapeute sera une aide précieuse dans le cadre de :"
+      bullet_point:
+        - "douleurs ou difficultés liées à la pénétration"
+        - "questions liées à la masturbation, aux fantasmes sexuels"
+        - "difficultés à atteindre l’orgasme"
+        - "la sexualité en cas de maladie, d’effets secondaires liés aux traitements"
+    # philosophy item loop
+    - title : "Quand et pourquoi consulter ?"
+      content: "Il est recommandé de consulter dès la survenue d’une préoccupation, d’une interrogation, d’une difficulté, d’un malaise, d’un inconfort, d’une douleur ou d’un blocage en matière de sexualité. Mais il est tout à fait possible de consulter à n’importe quel moment, même si les difficultés sont installées. Généralement, consulter un sexothérapeute sera une aide précieuse dans le cadre de :"
+      bullet_point:
+        - "difficultés liées aux violences sexuelles"
+        - "questions liées à la parentalité"
+        - "questions liées à l’orientation sexuelle"
+        - "questions liées au genre"
+
+################################## Intro Quand et pourquoi consulter ####################################
+deroulement:
+  enable : true
+  subtitle : ""
+  title : "Déroulement des consultations"
+  content : "Je reçois en consultation des personnes de tout âge (enfants, adolescents, adultes) quels que soient leur genre, leur orientation sexuelle, leurs croyances, leurs questionnements et leurs difficultés sexuelles. Les personnes peuvent être reçues seules et/ou en couple. 
+
+
+  Une consultation de sexologie dure environ une heure. Elle est basée sur un échange verbal, les patients ne se déshabillent pas, je ne les touche pas, je ne prescris pas de médicaments. 
+
+
+  Mes patients bénéficient d’un espace de parole respectueux et bienveillant. Je leur réserve un accueil chaleureux et une écoute de qualité. Je leur propose une aide à la compréhension des difficultés rencontrées, je leur délivre des informations en matière de relations, de sexualité, de gestion du stress et des émotions. Je prodigue des conseils et des outils susceptibles d’aider les patients à résoudre leurs problèmes : je leur suggère des techniques (basées notamment sur la respiration, la relaxation, la psychologie énergétique) et des exercices concrets à pratiquer entre les consultations, seul ou à deux, en vue de la résolution progressive des troubles. 
+
+
+  Je peux recevoir des patients pour une consultation ponctuelle. Plusieurs rendez-vous peuvent s’avérer nécessaires pour résoudre certains troubles sexuels. La durée de la prise en charge, la fréquence des consultations et les modalités pratiques s’organisent d’un commun accord en fonction du trouble à soigner, des disponibilités respectives et de l’implication dans la démarche de soin. Dans certaines situations, les consultations peuvent se dérouler par téléphone ou en visioconférence.
+
+
+  Tarifs : 50€ la consultation individuelle, 75€ la consultation de couple. Règlements acceptés : espèces, chèques ou virement bancaire. 
+
+
+  Lieu de consultation : association Ekitegia, 33 chemin de l’aquitaine à Bayonne."
+
+################################## Les ateliers collectifs :  ####################################
+ateliers:
+  enable : true
+  subtitle : "intro"
+  title : "Les ateliers collectifs :"
+  content : "Je propose des ateliers collectifs d’une durée variable (deux ou trois heures en général), ils rassemblent une dizaine de personne au maximum, qu’elles se connaissent ou pas, autour d’un thème préalablement défini. J’anime des ateliers à la demande, en soirée ou le week-end éventuellement, dans les locaux où je consulte : à Ekitegia à Bayonne. Je peux également me déplacer au sein d’associations, d’institutions, de lieux scolaires, d’entreprises et aussi chez des particuliers pour animer des ateliers. 
+
+
+  « Café sexo » ou « apéro sexo »… ces ateliers à visée d’information permettent de déconstruire les idées reçues, d’accroître ses connaissances et/ou de se sentir plus à l’aise pour aborder certaines thématiques. Durant les animations, je propose des supports ludiques et interactifs qui permettent des échanges entre tous les participants. Ces échanges permettent de mieux appréhender les questions liées à l’intime, aux corps, aux plaisirs et à la sexualité de manière générale.
+
+
+  Aucune difficulté individuelle n’est abordée dans le cadre d’un atelier collectif. La participation aux ateliers implique une posture respectueuse d’autrui, bienveillante, le non-jugement et la confidentialité nécessaire au bien-être de l’ensemble des participants.
+
+
+  Les tarifs des ateliers dépendent de la durée, du nombre de séances et de participants, ainsi que du lieu d’animation. N’hésitez pas à me contacter !"
+
+################################## professionnels  ####################################
+professionnels:
+  enable : true
+  subtitle : "intro"
+  title : "La formation / le soutien technique auprès de professionnels :"
+  content : "La sexualité concerne tout être humain, à tout âge : qu’elle soit problématique ou non, reconnue ou non, elle est présente, quotidiennement dans nos vies. Quels que soient les secteurs d’intervention (l’enseignement, l’éducation, le social, le médical, le juridique, le sport, la culture ...) et les publics visés (enfants, adolescents, adultes, personnes âgées, en situation de maladie ou de handicap, de dépendance, d’isolement ...) la question de l’intime se pose. Au sein des groupes le sujet du rapport au corps, à la puberté, au désir, à la parentalité, à la vie amoureuse et à la vie de couple est présent et met parfois à mal les équipes, les familles des personnes prises en charge.
+
+
+  La formation d’équipe de professionnels permet une réflexion commune sur ces thématiques, un langage d’équipe commun, et une harmonisation des pratiques. La formation permet d’aborder plus sereinement les sujets de l’intime et de se sentir légitime pour le faire, de manière appropriée. Je propose des formations sur des thématiques spécifiques définies préalablement et/ou du soutien technique auprès d’institutions et de professionnels, sur des questions liées à la sexualité de leurs publics. 
+
+
+  Le soutien technique permet aux professionnels un espace pour réfléchir, analyser et ajuster leur posture, leur positionnement individuel et d’équipe, en lien avec une situation problème autour de comportements et de questions liées à la sexualité des publics accueillis. 
+
+
+  Les tarifs dépendent de la durée, du nombre de séances et de participants, ainsi que du lieu d’intervention. N’hésitez pas à me contacter pour envisager un partenariat et recevoir un devis !"
+
+################################### about ###########################
+about:
+  enable : false
+  # about content comes from `data/*/homepage.yml` file
+
+################################### service ###########################
+service:
+  enable : false
+  # service item comes from `content/*/service` folder
+
+################################### team ###########################
+team: 
+  enable : false
+  # team member comes from `content/*/team` folder
