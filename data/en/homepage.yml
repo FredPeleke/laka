@@ -87,18 +87,18 @@ parcours:
 partenaires :
   enable : true
   partenaires_item :
-    - image : "images/about/logo-egitegia.png"
-      lien : "https://www.egitegia.fr"
-      alt : "logo Egitegia"
+    - image : "images/about/logo-ecole-de-psycho-sexologie.png"
+      lien : "https://www.ecole-de-psycho-sexologie.com/"
+      alt : "logo École de Psycho-sexologie"
     - image : "images/about/logo-ifpec.jpg"
       lien : "https://ifpec.org/"
       alt : "logo IFPEC"
     - image : "images/about/logo-SNSC-PastedGraphic.png"
       lien : "https://www.snsc.fr/people"
       alt : "logo SNSC"
-    - image : "images/about/logo-ecole-de-psycho-sexologie.png"
-      lien : "https://www.ecole-de-psycho-sexologie.com/"
-      alt : "logo École de Psycho-sexologie"
+    - image : "images/about/logo-egitegia.png"
+      lien : "https://www.egitegia.fr"
+      alt : "logo Egitegia"
 
 ################################## funfacts ###############################
 funfacts :
