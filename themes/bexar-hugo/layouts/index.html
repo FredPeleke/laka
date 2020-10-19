@@ -61,17 +61,17 @@
 
 {{ if $data.homepage.about.enable }}
 {{ "<!-- Qui suis-je -->" | safeHTML }}
-<section class="section pt-0">
+<div class="section pt-0">
   {{ partial "about.html" . }}
-</section>
+</div>
 {{ "<!-- /Qui suis-je -->" | safeHTML }}
 {{ end }}
 
 {{ if $data.homepage.parcours.enable }}
 {{ "<!-- Parcours -->" | safeHTML }}
-<section class="section pt-0">
+<div class="section pt-0">
   {{ partial "parcours.html" . }}
-</section>
+</div>
 {{ "<!-- /Parcours -->" | safeHTML }}
 {{ end }}
 
