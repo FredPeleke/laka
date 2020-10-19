@@ -149,9 +149,9 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # footer content
-footer_content = "Je reçois en consultation des personnes de tout âge (enfants, adolescents, adultes) quels que soient leur genre, leur orientation sexuelle, leurs croyances, leurs questionnements et leurs difficultés. Les personnes peuvent être reçues seules et/ou en couple."
+footer_content = ""
 # copyright
-copyright = "Copyright &copy; [WebPlusUn](https://webplusun.fr) - [MaBulleDesign](mailto:beigbiza@gmail.com) tous droits réservés"
+copyright = "&copy; [WebPlusUn](https://webplusun.fr) - [MaBulleDesign](mailto:beigbiza@gmail.com) tous droits réservés"
 
 
 ################################### French language #####################################
