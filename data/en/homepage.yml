@@ -79,8 +79,8 @@ parcours:
 
   Je suis affiliée au **Syndicat Nationale des Sexologues Cliniciens.**"
   bg_image : ""
-  image_webp : "images/about/Diplome-Stephanie-Lacassagne-Praticien.webp"
-  image : "images/about/Diplome-Stephanie-Lacassagne-Praticien.jpg"
+  image_webp : "images/about/cartes-visite.webp"
+  image : "images/about/cartes-visite.jpg"
   button:
     enable : false
     label : "more service"
