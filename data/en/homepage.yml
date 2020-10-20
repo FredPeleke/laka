@@ -8,13 +8,7 @@ slider:
       content : ""
       bg_image_webp : "images/slider/ouverture-landes.webp"
       bg_image : "images/slider/ouverture-landes.jpg"
-      animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
-      button:
-        enable : false
-        label : "more details"
-        link : "about"
-        animation : "zoomIn" # animation select from : https://daneden.github.io/animate.css/
-        
+      animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/        
 
 ################################## bandeau ############################
 banner_feature:

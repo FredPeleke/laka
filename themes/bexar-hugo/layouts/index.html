@@ -17,10 +17,6 @@
             <h1 class="h2 mb-4">{{ .title | markdownify }}</h1>
             <h2 class="mb-0">{{ .subtitle | markdownify }}</h2>
             <!--p class="mb-5">{{ .content | markdownify }}</p-->
-            {{ if .button.enable }}
-            <!--a href="{{ .button.link | absLangURL }}" class="btn btn-primary-outline" data-duration-in=".3"
-              data-animation-in="{{ .button.animation }}" data-delay-in=".4">{{ .button.label }}</a-->
-            {{ end }}
           </div>
         </div>
       </div>
