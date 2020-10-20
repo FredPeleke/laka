@@ -12,8 +12,6 @@
   </div>
 </section>
 
-
-
 <div class="container" style="padding-top:30px">
   <div  class="justify-content-between align-items-center">
     <p class="mb-0 text-center text-secondary" style="font-size:1.5em;"><i>"Le sexe est une sujet sérieux qu’il faut traiter avec légèreté, et inversement."</i></p>
@@ -21,19 +19,24 @@
   </div>
 </div>
 
-
 {{ with $data.sexologie.intro }}
-<section class="section">
+<div class="section pt-0">
   <div class="container">
-    <div class="justify-content-between align-items-center">
-      <div class="col-md-0 bg-contain">
+    <div class="mt-5 row justify-content-between align-items-center">
+      <div class="col-md-5 bg-contain-left" data-background="{{ .bg_image | absURL }}">
+        {{ "<!-- intro -->" | safeHTML }}
+        <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
+      </div>
+      <div class="col-md-6">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p class="mb-5">{{ .content | markdownify }}
       </div>
     </div>
   </div>
-</section>
+</div>
 {{ end }}
+
+
 
 <!-- Quand et pourquoi consulter -->
 {{ with $data.sexologie.pourquoi }}
