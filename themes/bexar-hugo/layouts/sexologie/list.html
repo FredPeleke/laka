@@ -23,12 +23,12 @@
 <section class="section">
   <div class="container">
     <div class="row justify-content-between align-items-center">
-      <div class="col-md-6">
+      <div class="col-md-5">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p class="mb-5">{{ .content | markdownify }}</p>
       </div>
-      <div class="col-md-5 bg-contain" data-background="{{ .bg_image | absURL }}">
-        {{ "<!-- diplôme -->" | safeHTML }}
+      <div class="col-md-6 bg-contain" data-background="{{ .bg_image | absURL }}">
+        {{ "<!-- intro -->" | safeHTML }}
         <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="Alt Image">
       </div>
     </div>
@@ -36,9 +36,6 @@
 </section>
 {{ end }}
 
-
-
-<!-- Quand et pourquoi consulter -->
 {{ with $data.sexologie.pourquoi }}
 <section class="section bg-primary">
   <div class="container">
@@ -56,7 +53,26 @@
   </div>
 </section>
 {{ end }}
-<!-- /Quand et pourquoi consulter -->
+
+{{ with $data.sexologie.deroulement }}
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-md-5">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+        <p class="mb-5">{{ .content | markdownify }}</p>
+      </div>
+      <div class="col-md-6 bg-secondary">
+        {{ "<!-- intro -->" | safeHTML }}
+        <h3 class="section-title">Tarifs :</h3>
+        <p class="mb-3">{{ .tarifs | markdownify }}</p>
+        <h3 class="section-title">Lieu de consultation :</h3>
+        <p class="mb-3">{{ .lieu | markdownify }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
 
 {{ with $data.sexologie.deroulement }}
 <section class="section">
