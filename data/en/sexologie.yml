@@ -8,16 +8,19 @@ intro:
   content : "La sexologie est l’étude de la sexualité humaine.
 
 
-  La sexothérapie a pour but d’aider à l’épanouissement de l’être humain dans sa vie personnelle, relationnelle, affective, sentimentale, amoureuse, intime, sexuelle. 
+  La sexothérapie vise à aider à l’épanouissement de l’être humain dans sa vie personnelle, relationnelle, affective, sentimentale, amoureuse, intime, sexuelle. 
 
 
   Les sexologues médecins peuvent ausculter les patients, leur prescrire des examens et des traitements médicaux. Ainsi ils dépistent et traitent les causes organiques qui peuvent expliquer des troubles sexuels. 
 
 
-  Les sexologues non-médecins nommés psycho-sexologues ou sexothérapeutes sont aptes à évaluer et comprendre l’origine des difficultés d’ordre psychologique ou émotionnel rencontrées par les patients. Ils sont compétents pour accompagner ces patients sur le chemin de la résolution de leurs difficultés sexuelles, intimes, relationnelles, affectives par le biais d’une prise en charge thérapeutique.
+  Les sexologues non-médecins nommés psycho-sexologues ou sexothérapeutes ou sexologues cliniciens sont aptes à évaluer et comprendre l’origine des difficultés d’ordre psychologique ou émotionnel rencontrées par les patients. Ils sont compétents pour accompagner ces patients sur le chemin de la résolution de leurs difficultés sexuelles, intimes, relationnelles, affectives par le biais d’une prise en charge thérapeutique.
 
 
   Il est fortement recommandé de s’adresser à des sexothérapeutes formés et diplômés : c’est une garantie de sérieux et de qualité des soins. Toutefois, cette spécialité n’est pas encore reconnue en France, ni réglementée, quiconque peut se prétendre sexothérapeute et s’installer en tant que tel. La sexologie clinique n’est pas prise en charge par la sécurité sociale, mais certaines mutuelles remboursent quelques consultations."
+  image : "carte-viste-EFT.jpg"
+  image_webp : "carte-viste-EFT.webp"
+  alt : ""
 
 ################################### Quand et pourquoi consulter ###########################
 pourquoi:
@@ -30,15 +33,15 @@ pourquoi:
     - "troubles de l’érection"
     - "troubles de l’éjaculation"
     - "troubles du désir sexuel"
+    - "douleurs ou difficultés liées à la pénétration"
+    - "difficultés à atteindre l’orgasme"
     - "compulsions sexuelles"
     - "questions liées à la masturbation, aux fantasmes sexuels"
-    - "difficultés à atteindre l’orgasme"
     - "la sexualité en cas de maladie, d’effets secondaires liés aux traitements"
-    - "douleurs ou difficultés liées à la pénétration"
     - "difficultés liées aux violences sexuelles"
-    - "questions liées à la parentalité"
     - "questions liées à l’orientation sexuelle"
     - "questions liées au genre"
+    - "questions liées à la parentalité"
 
 ################################### Quand et pourquoi consulter ###########################
 philosophy:
@@ -85,13 +88,9 @@ deroulement:
   Mes patients bénéficient d’un espace de parole respectueux et bienveillant. Je leur réserve un accueil chaleureux et une écoute de qualité. Je leur propose une aide à la compréhension des difficultés rencontrées, je leur délivre des informations en matière de relations, de sexualité, de gestion du stress et des émotions. Je prodigue des conseils et des outils susceptibles d’aider les patients à résoudre leurs problèmes : je leur suggère des techniques (basées notamment sur la respiration, la relaxation, la psychologie énergétique) et des exercices concrets à pratiquer entre les consultations, seul ou à deux, en vue de la résolution progressive des troubles. 
 
 
-  Je peux recevoir des patients pour une consultation ponctuelle. Plusieurs rendez-vous peuvent s’avérer nécessaires pour résoudre certains troubles sexuels. La durée de la prise en charge, la fréquence des consultations et les modalités pratiques s’organisent d’un commun accord en fonction du trouble à soigner, des disponibilités respectives et de l’implication dans la démarche de soin. Dans certaines situations, les consultations peuvent se dérouler par téléphone ou en visioconférence.
-
-
-  Tarifs : 50€ la consultation individuelle, 75€ la consultation de couple. Règlements acceptés : espèces, chèques ou virement bancaire. 
-
-
-  Lieu de consultation : association Ekitegia, 33 chemin de l’aquitaine à Bayonne."
+  Je peux recevoir des patients pour une consultation ponctuelle. Plusieurs rendez-vous peuvent s’avérer nécessaires pour résoudre certains troubles sexuels. La durée de la prise en charge, la fréquence des consultations et les modalités pratiques s’organisent d’un commun accord en fonction du trouble à soigner, des disponibilités respectives et de l’implication dans la démarche de soin. Les consultations peuvent se dérouler par téléphone ou en visioconférence."
+  tarifs : "50€ la consultation individuelle, 75€ la consultation de couple. Règlements acceptés : espèces, chèques ou virement bancaire."
+  Lieu de consultation : "Association Ekitegia, 33 chemin de l’Aquitaine à Bayonne."
 
 ################################## Les ateliers collectifs :  ####################################
 ateliers:
