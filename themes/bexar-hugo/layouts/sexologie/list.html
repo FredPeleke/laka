@@ -62,7 +62,7 @@
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p class="mb-5">{{ .content | markdownify }}</p>
       </div>
-      <div class="col-md-4 bg-secondary">
+      <div class="section col-md-4 bg-secondary">
         {{ "<!-- Tarifs -->" | safeHTML }}
         <h3>Tarifs :</h3>
         <p class="mb-3 text-white">{{ .tarifs | markdownify }}</p>
