@@ -109,7 +109,9 @@ ateliers:
 
 
   Les tarifs des ateliers dépendent de la durée, du nombre de séances et de participants, ainsi que du lieu d’animation. N’hésitez pas à me contacter !"
-
+  image : "images/about/Sexploration-atelier.jpg"
+  image_webp : "images/about/Sexploration-atelier.webp"
+  alt : "carte de visite EFT Stéphanie Lacassagne"
 ################################## professionnels  ####################################
 professionnels:
   enable : true
