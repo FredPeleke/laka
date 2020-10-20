@@ -78,8 +78,8 @@ weight = 2
 
 ########################### Default parameters ######################
 [params]
-logo = "images/Stephanie-Lacassagne-Favicon.png"
-logo_footer = "images/Stephanie-Lacassagne-Favicon.png"
+logo = "images/logo-site.png"
+logo_footer = "images/logo-site.png"
 # top header
 top_header = false
 # Meta data
