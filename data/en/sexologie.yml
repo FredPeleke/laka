@@ -18,9 +18,9 @@ intro:
 
 
   Il est fortement recommandé de s’adresser à des sexothérapeutes formés et diplômés : c’est une garantie de sérieux et de qualité des soins. Toutefois, cette spécialité n’est pas encore reconnue en France, ni réglementée, quiconque peut se prétendre sexothérapeute et s’installer en tant que tel. La sexologie clinique n’est pas prise en charge par la sécurité sociale, mais certaines mutuelles remboursent quelques consultations."
-  image : "carte-viste-EFT.jpg"
+  image : "images/about/carte-viste-EFT.jpg"
   image_webp : "images/about/carte-viste-EFT.webp"
-  alt : "images/about/carte de visite EFT Stéphanie Lacassagne"
+  alt : "carte de visite EFT Stéphanie Lacassagne"
 
 ################################### Quand et pourquoi consulter ###########################
 pourquoi:
@@ -91,6 +91,8 @@ deroulement:
   Je peux recevoir des patients pour une consultation ponctuelle. Plusieurs rendez-vous peuvent s’avérer nécessaires pour résoudre certains troubles sexuels. La durée de la prise en charge, la fréquence des consultations et les modalités pratiques s’organisent d’un commun accord en fonction du trouble à soigner, des disponibilités respectives et de l’implication dans la démarche de soin. Les consultations peuvent se dérouler par téléphone ou en visioconférence."
   tarifs : "50€ la consultation individuelle, 75€ la consultation de couple. Règlements acceptés : espèces, chèques ou virement bancaire."
   lieu : "Association Ekitegia, 33 chemin de l’Aquitaine à Bayonne."
+  image : "images/about/logo-egitegia.png"
+  alt : "logo Egitegia"
 
 ################################## Les ateliers collectifs :  ####################################
 ateliers:

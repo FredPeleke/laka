@@ -64,23 +64,10 @@
       </div>
       <div class="col-md-4 bg-secondary">
         {{ "<!-- Tarifs -->" | safeHTML }}
-        <h3 class="section-title">Tarifs :</h3>
-        <p class="mb-3">{{ .tarifs | markdownify }}</p>
-        <h3 class="section-title">Lieu de consultation :</h3>
-        <p class="mb-3">{{ .lieu | markdownify }}</p>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-
-{{ with $data.sexologie.deroulement }}
-<section class="section">
-  <div class="container">
-    <div class="justify-content-between align-items-center">
-      <div>
-        <h3 class="section-title">{{ .title | markdownify }}</h3>
-        <p class="mb-5">{{ .content | markdownify }}
+        <h3>Tarifs :</h3>
+        <p class="mb-3 text-white">{{ .tarifs | markdownify }}</p>
+        <h3>Lieu de consultation :</h3>
+        <p class="mb-3 text-white">{{ .lieu | markdownify }}</p>
       </div>
     </div>
   </div>
