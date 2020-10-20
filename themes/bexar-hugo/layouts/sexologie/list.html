@@ -22,17 +22,21 @@
 
 
 {{ with $data.sexologie.intro }}
-<section class="section">
-  <div class="container">
-    <div class="justify-content-between align-items-center">
-      <div class="col-md-0 bg-contain">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-        <p class="mb-5">{{ .content | markdownify }}
-      </div>
+<div class="container">
+  <div class="row justify-content-between align-items-center">
+    <div class="col-md-6">
+      <h2 class="section-title">{{ .title | markdownify }}</h2>
+      <p class="mb-5">{{ .content | markdownify }}</p>
+    </div>
+    <div class="col-md-5 bg-contain" data-background="{{ .bg_image | absURL }}">
+      {{ "<!-- diplôme -->" | safeHTML }}
+      <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="Alt Image">
     </div>
   </div>
-</section>
+</div>
 {{ end }}
+
+
 
 <!-- Quand et pourquoi consulter -->
 {{ with $data.sexologie.pourquoi }}
