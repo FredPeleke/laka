@@ -13,6 +13,16 @@
 </section>
 
 {{ with $data.sexologie.intro }}
+<div class="section">
+  <div class="container">
+    <div class="row">
+      <blockquote class="mb-5">{{ .content | markdownify }}></blockquote>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ with $data.sexologie.intro }}
 <section class="section">
   <div class="container">
     <div class="justify-content-between align-items-center">
