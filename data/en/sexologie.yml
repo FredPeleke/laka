@@ -1,4 +1,7 @@
-
+citation:
+  enable: true
+    content: "Le sexe est une sujet sérieux qu’il faut traiter avec légèreté, et inversement."
+    signature: "Le Cabinet de Curiosité Féminine"
 
 ################################## Intro Quand et pourquoi consulter ####################################
 intro:
