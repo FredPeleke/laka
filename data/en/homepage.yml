@@ -6,8 +6,8 @@ slider:
     - subtitle : "Sexothérapeute et praticienne EFT / Matrix Reimprinting"
       title : "Stéphanie Lacassagne"
       content : ""
-      bg_image_webp : "images/slider/hero-bulles-blc."
-      bg_image : "images/slider/hero-bulles-blc.jpg"
+      bg_image_webp : "images/slider/ouverture-landes.webp"
+      bg_image : "images/slider/ouverture-landes.jpg"
       animation : "fadeInUp" # animation select from : https://daneden.github.io/animate.css/
       button:
         enable : false
