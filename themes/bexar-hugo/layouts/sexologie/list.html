@@ -12,16 +12,7 @@
   </div>
 </section>
 
-{{ with $data.sexologie.citation }}
-<div class="section">
-  <div class="container">
-    <div class="row">
-      <p class="mb-0 text-center"><i>{{ .content | markdownify }}></i></p>
-      <p class="mb-5">{{ .signature | markdownify }}></p>
-    </div>
-  </div>
-</div>
-{{ end }}
+
 
 {{ with $data.sexologie.intro }}
 <section class="section">
