@@ -68,10 +68,18 @@ cause de toute émotion négative est une perturbation du système énergétique
 {{ with $data.psychologie.deroulement }}
 <section class="section">
   <div class="container">
-    <div class="justify-content-between align-items-center">
-      <div>
+    <div class="row justify-content-between align-items-center">
+      <div class="col-md-7">
         <h3 class="section-title">{{ .title | markdownify }}</h3>
         <p class="mb-5">{{ .content | markdownify }}
+      </div>
+      <div class="section col-md-4 bg-secondary">
+        {{ "<!-- Tarifs -->" | safeHTML }}
+        <h3>Tarifs :</h3>
+        <p class="mb-3 text-white">{{ .tarifs | markdownify }}</p>
+        <h3>Lieu de consultation :</h3>
+        <p class="mb-3 text-white">{{ .lieu | markdownify }}</p>
+        <img class="img-fluid w-100 box-shadow" src="{{ .image | absURL }}" alt="">
       </div>
     </div>
   </div>
