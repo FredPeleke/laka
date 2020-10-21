@@ -63,13 +63,13 @@ hasChildren = true
 	[[menu.main]]
 	parent = "La sexologie"
 	name = "Quand et pourquoi consulter ?"
-	URL = "sexologie#1"
+	URL = "sexologie#5"
 	weight = 2
 
 	[[menu.main]]
 	parent = "La sexologie"
 	name = "Déroulement des consultations"
-	URL = "sexologie#2"
+	URL = "sexologie#6"
 	weight = 3
 
 	[[menu.main]]
