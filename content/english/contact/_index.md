@@ -1,5 +1,5 @@
 ---
-title: "Prenons contact"
+title: "Contactez-moi !"
 # meta description
 description: "Je reçois en consultation des personnes de tout âge, quels que soient leur genre, leur orientation sexuelle, leurs croyances, leurs questionnements et leurs difficultés."
 # page title background image
