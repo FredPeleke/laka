@@ -62,7 +62,7 @@ hasChildren = true
 	[[menu.main]]
 	parent = "La psychologie énergétique"
 	name = "Qu’est-ce que la psychologie énergétique ?"
-	URL = "#Qu’est-ce que la psychologie énergétique ?"
+	URL = "psychologie-energetique#1"
 
 [[menu.main]]
 name = "Contact"
