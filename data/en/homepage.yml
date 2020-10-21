@@ -85,15 +85,19 @@ partenaires :
   enable : true
   partenaires_item :
     - image : "images/about/logo-ecole-de-psycho-sexologie.png"
+      image_webp : "images/about/logo-ecole-de-psycho-sexologie.webp"
       lien : "https://www.ecole-de-psycho-sexologie.com/"
       alt : "logo École de Psycho-sexologie"
     - image : "images/about/logo-ifpec.jpg"
+      image_webp : "images/about/logo-ifpec.webp"
       lien : "https://ifpec.org/"
       alt : "logo IFPEC"
     - image : "images/about/logo-SNSC-PastedGraphic.png"
+      image_webp : "images/about/logo-SNSC-PastedGraphic.webp"
       lien : "https://www.snsc.fr/people"
       alt : "logo SNSC"
     - image : "images/about/logo-egitegia.png"
+      image_webp : "images/about/logo-egitegia.webp"
       lien : "https://www.egitegia.fr"
       alt : "logo Egitegia"
 

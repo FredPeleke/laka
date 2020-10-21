@@ -82,7 +82,7 @@
       <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
         <div class="d-flex align-items-center">
           <a href="{{ .lien }}" rel="noopenner nofollow" target="_blank">
-          <img class="img-fluid w-100" src="{{ .image | absURL }}" alt="{{ .alt | markdownify }}">
+          <img class="img-fluid w-100" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
           </a>
         </div>
       </div>
