@@ -1,7 +1,6 @@
 ########################### Default configuration ######################
 baseURL = "https://dev-stephanie-lacassagne.netlify.app"
-title = ""
-onglet = "Stéphanie Lacassagne"
+title = "Consultations"
 theme = "bexar-hugo"
 # post pagination
 paginate = "6"
