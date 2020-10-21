@@ -23,10 +23,14 @@ cause de toute émotion négative est une perturbation du système énergétique
 {{ with $data.psychologie.psychologie }}
 <section class="section">
   <div class="container">
-    <div class="justify-content-between align-items-center">
-      <div class="col-md-0 bg-contain">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-md-7">
         <h2 class="section-title">{{ .title | markdownify }}</h2>
         <p class="mb-5">{{ .content | markdownify }}
+      </div>
+      <div class="col-md-4 bg-contain" data-background="{{ .bg_image | absURL }}">
+        {{ "<!-- intro -->" | safeHTML }}
+        <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="">
       </div>
     </div>
   </div>
@@ -36,10 +40,14 @@ cause de toute émotion négative est une perturbation du système énergétique
 {{ with $data.psychologie.matrix }}
 <section class="section bg-gray">
   <div class="container">
-    <div class="justify-content-between align-items-center">
-      <div>
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-        <p class="mb-5">{{ .content | markdownify }}
+    <div class="row justify-content-between align-items-center">
+      <div class="col-md-4 bg-contain">
+        {{ "<!-- ateliers -->" | safeHTML }}
+        <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="Ateliers avec le jeu Sexploration, c'est pas tabou">
+      </div>
+      <div class="col-md-7">
+        <h3 class="section-title">{{ .title | markdownify }}</h3>
+        <p class="mb-5">{{ .content | markdownify }}</p>
       </div>
     </div>
   </div>
