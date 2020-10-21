@@ -51,12 +51,42 @@ link = "plugins/search/search.js"
 # main menu
 [[menu.main]]
 name = "La sexologie"
-URL = "sexologie"
-weight = 2
+weight = 1
+hasChildren = true
+
+	[[menu.main]]
+	parent = "La sexologie"
+	name = "Qu’est-ce que la sexologie ?"
+	URL = "sexologie"
+	weight = 1
+
+	[[menu.main]]
+	parent = "La sexologie"
+	name = "Quand et pourquoi consulter ?"
+	URL = "sexologie#1"
+	weight = 2
+
+	[[menu.main]]
+	parent = "La sexologie"
+	name = "Déroulement des consultations"
+	URL = "sexologie#2"
+	weight = 3
+
+	[[menu.main]]
+	parent = "La sexologie"
+	name = "Les ateliers collectifs"
+	URL = "sexologie#3"
+	weight = 4
+
+	[[menu.main]]
+	parent = "La sexologie"
+	name = "La formation / le soutien technique auprès de professionnels"
+	URL = "sexologie#4"
+	weight = 5
 
 [[menu.main]]
 name = "La psychologie énergétique"
-weight = 3
+weight = 2
 hasChildren = true
 
 	[[menu.main]]
@@ -86,7 +116,7 @@ hasChildren = true
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 4
+weight = 3
 
 # footer menu
 [[menu.footer]]

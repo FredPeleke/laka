@@ -37,7 +37,7 @@
 {{ end }}
 
 {{ with $data.sexologie.pourquoi }}
-<section class="section bg-primary">
+<section class="section bg-primary" id="1">
   <div class="container">
     <div class="justify-content-between align-items-center">
       <h3 class="section-title" style="color:#e27174">{{ .title | markdownify }}</h3>
@@ -55,7 +55,7 @@
 {{ end }}
 
 {{ with $data.sexologie.deroulement }}
-<section class="section">
+<section class="section" id="2">
   <div class="container">
     <div class="row justify-content-between align-items-center">
       <div class="col-md-7">
@@ -76,7 +76,7 @@
 {{ end }}
 
 {{ with $data.sexologie.ateliers }}
-<section class="section bg-gray">
+<section class="section bg-gray" id="3">
   <div class="container">
     <div class="row justify-content-between align-items-center">
       <div class="col-md-4 bg-contain">
@@ -95,7 +95,7 @@
 
 
 {{ with $data.sexologie.professionnels }}
-<section class="section">
+<section class="section" id="4">
   <div class="container">
     <div class="justify-content-between align-items-center">
       <div>
