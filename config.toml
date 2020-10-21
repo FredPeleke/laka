@@ -62,7 +62,22 @@ hasChildren = true
 	[[menu.main]]
 	parent = "La psychologie énergétique"
 	name = "Qu’est-ce que la psychologie énergétique ?"
+	URL = "psychologie-energetique"
+
+	[[menu.main]]
+	parent = "La psychologie énergétique"
+	name = "L’EFT et Matrix Reimprinting"
 	URL = "psychologie-energetique#1"
+
+	[[menu.main]]
+	parent = "La psychologie énergétique"
+	name = "Quand et pourquoi consulter ?"
+	URL = "psychologie-energetique#2"
+
+	[[menu.main]]
+	parent = "La psychologie énergétique"
+	name = "Déroulement des consultations"
+	URL = "psychologie-energetique#3"
 
 [[menu.main]]
 name = "Contact"
