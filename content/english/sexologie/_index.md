@@ -1,6 +1,5 @@
 ---
-title: "La sexologie"
-onglet: "Sexologie à Bayonne |"
+title: "Sexothérapeute"
 # meta description
 description: "La sexothérapie a pour but d’aider à l’épanouissement de l’être humain dans sa vie personnelle, relationnelle, affective, sentimentale, amoureuse, intime, sexuelle."
 # page title background image
