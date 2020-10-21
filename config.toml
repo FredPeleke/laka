@@ -1,6 +1,6 @@
 ########################### Default configuration ######################
 baseURL = "https://dev-stephanie-lacassagne.netlify.app"
-title = "Consultations"
+title = "Consultations sexologie"
 theme = "bexar-hugo"
 # post pagination
 paginate = "6"
@@ -16,8 +16,7 @@ home = ["HTML", "RSS", "JSON"]
   
 ############################### Plugins #################################
 # CSS Plugins
-[[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
