@@ -55,14 +55,19 @@ URL = "sexologie"
 weight = 2
 
 [[menu.main]]
-name = "La psychologie énergétique "
-URL = "psychologie-energetique"
+name = "La psychologie énergétique"
 weight = 3
+hasChildren = true
+
+	[[menu.main]]
+	parent = "La psychologie énergétique"
+	name = "Qu’est-ce que la psychologie énergétique ?"
+	URL = "#Qu’est-ce que la psychologie énergétique ?"
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 7
+weight = 4
 
 # footer menu
 [[menu.footer]]
