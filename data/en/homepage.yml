@@ -46,10 +46,7 @@ about:
   bg_image : ""
   image_webp : "images/about/stephanie-lacassagne-portrait.webp"
   image : "images/about/stephanie-lacassagne-portrait.jpg"
-  button:
-    enable : false
-    label : "more service"
-    link : "service"
+
 
 ################################## Parcours ####################################
 parcours:
@@ -75,10 +72,7 @@ parcours:
   bg_image : ""
   image_webp : "images/about/cartes-visite.webp"
   image : "images/about/cartes-visite.jpg"
-  button:
-    enable : false
-    label : "more service"
-    link : "service"
+
 
 ################################## partenaires ###############################
 partenaires :
