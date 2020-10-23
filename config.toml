@@ -196,7 +196,7 @@ URL = "https://instagram.com/themefisher"
 ################################### English language #####################################
 [Languages.en]
 languageName = "En"
-languageCode = "en-us"
+languageCode = "fr-fr"
 contentDir = "content/english"
 weight = 1
 home = "Home"
