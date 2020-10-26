@@ -68,7 +68,9 @@
         <p class="mb-3 text-white">{{ .tarifs | markdownify }}</p>
         <h3>Lieu de consultation :</h3>
         <p class="mb-3 text-white">{{ .lieu | markdownify }}</p>
-        <img class="img-fluid w-100 box-shadow" src="{{ .image | absURL }}" alt="">
+        <a href="{{ .lien }}" rel="noopener noreferrer nofollow" target="_blank">
+          <img class="img-fluid w-80 box-shadow" src="{{ .image | absURL }}" alt="{{ .alt | markdownify }}">
+        </a>
       </div>
     </div>
   </div>
