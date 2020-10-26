@@ -3,10 +3,10 @@
 psychologie:
   enable : true
   title : "Qu’est-ce que la psychologie énergétique ?"
-  content : "Les neurosciences ont montré que tous les événements que nous vivons sont enregistrés dans notre inconscient. Plus un événement est chargé émotionnellement plus il est présent dans notre mémoire et également dans les cellules de notre corps, à notre insu. Les traumatismes, petits ou grands, laissent des « cicatrices émotionnelles » à l’intérieur de chacun d’entre nous. Ces « cicatrices » sont en réalité des perturbations énergétiques inscrites dans nos corps.
+  content : "Les neurosciences ont montré que **tous les événements que nous vivons sont enregistrés dans notre inconscient.** Plus un événement est chargé émotionnellement plus il est présent dans notre mémoire et également dans les cellules de notre corps, à notre insu. **Les traumatismes, petits ou grands, laissent des « cicatrices émotionnelles »** à l’intérieur de chacun d’entre nous. Ces « cicatrices » sont en réalité des perturbations énergétiques inscrites dans nos corps.
 
 
-  La psychologie énergétique est issue de la médecine traditionnelle chinoise. Elle permet, par le biais de stimulations de points spécifiques sur le corps, de réguler les émotions bloquées en chacun de nous avec des changements rapides, spectaculaires et durables."
+  La psychologie énergétique est issue de la médecine traditionnelle chinoise. Elle permet, par le biais de stimulations de points spécifiques sur le corps, de réguler les émotions bloquées en chacun de nous avec **des changements rapides, spectaculaires et durables**."
   image : "images/about/carte-viste-EFT.jpg"
   image_webp : "images/about/carte-viste-EFT.webp"
   alt : "Cartes de visite EFT par Stéphanie Lacassagne"
@@ -15,13 +15,16 @@ psychologie:
 matrix:
   enable : true
   title : "L’EFT et Matrix Reimprinting :"
-  content : "Ce sont des techniques de psychologie énergétique dites de thérapies brèves, qui visent à équilibrer et harmoniser le corps et l’esprit. L’EFT signifie Emotional Freedom Technique soit technique de libération émotionnelle. Elle est pratiquée en France depuis une vingtaine d’année, tandis qu’il existe pour le moment peu de praticiens formés à Matrix Reimprinting. Ces méthodes gagnent à être connues du fait de leur efficacité, leur simplicité, leur effet durable, et du caractère doux et non invasif des techniques utilisées. 
+  content : "**Ce sont des techniques de psychologie énergétique dites de thérapies brèves, qui visent à équilibrer et harmoniser le corps et l’esprit.**
 
 
-  L’EFT est basée sur la résolution de difficultés liées à des émotions, des douleurs, des souvenirs ou évènements invalidants grâce à des tapotements sur des méridiens d’acupuncture au niveau du visage, du torse et de la main. L’EFT agit sur le physique (tapotements), le mental (formulation de quelques phrases) et l’émotionnel (concentration sur l’émotion ressentie).
+  **EFT** signifie Emotional Freedom Technique soit technique de libération émotionnelle. Elle est pratiquée en France depuis une vingtaine d’année. Elle est basée sur la résolution de difficultés liées à des émotions, des douleurs, des souvenirs ou évènements invalidants grâce à des tapotements sur des méridiens d’acupuncture au niveau du visage, du torse et de la main. L’EFT agit sur le physique (tapotements), le mental (formulation de quelques phrases) et l’émotionnel (concentration sur l’émotion ressentie).
 
 
-  Matrix Reimprinting signifie ré-encodage de la matrice, c’est une technique encore peu développée en France. Issue de l’EFT, elle va encore plus loin dans la transformation intérieure. Elle permet de modifier nos parts intérieures blessées : grâce à des tapotements sur des méridiens d’acupuncture associés à un travail en imagination de réimpression sensorielle."
+  **Matrix Reimprinting** signifie ré-encodage de la matrice, c’est une technique encore peu développée en France. Issue de l’EFT, elle va encore plus loin dans la transformation intérieure. Elle permet de modifier nos parts intérieures blessées : grâce à des tapotements sur des méridiens d’acupuncture associés à un travail en imagination de réimpression sensorielle.
+
+
+  Ces méthodes gagnent à être connues du fait de leur **efficacité**, leur **simplicité**, leur **effet durable**, et du **caractère doux et non invasif** des techniques utilisées."
   image : "images/about/matrix.jpg"
   image_webp : "images/about/matrix.webp"
   alt : "L'EFT-Matrix Reimprinting par Stéphanie Lacassagne"
@@ -36,7 +39,10 @@ pourquoi:
     - "on est envahi, bloqué par un évènement traumatique comme un accident, une maladie, un décès, une difficulté professionnelle, familiale, une situation relationnelle problématique"
     - "on souffre dans son corps, d’une douleur physique, d’une blessure"
     - "on a une ou plusieurs phobies"
-  content : "L’EFT et Matrix Reimprinting sont des techniques très efficaces pour un apaisement rapide et durable. Ces techniques douces et non invalidantes fonctionnent très bien avec les enfants ainsi qu’avec des personnes de tout âge, dans toute situation. L’EFT est un outil intéressant car une fois la technique connue, après une ou plusieurs séances, chacun peut l’utiliser seul, pour soi-même et/ou pour un de ses proches. Il est ainsi possible de prendre en charge instantanément une montée émotionnelle en auto-application.  A l’issue des consultations, les patients peuvent recevoir un schéma récapitulant la technique en vue d’un usage personnel."
+  content : "L’EFT et Matrix Reimprinting sont des techniques très efficaces pour un apaisement rapide et durable. Ces techniques douces et non invalidantes fonctionnent très bien avec les enfants ainsi qu’avec des personnes de tout âge, dans toute situation.
+
+
+  L’EFT est un outil intéressant car **une fois la technique connue, après une ou plusieurs séances, chacun peut l’utiliser seul, pour soi-même et/ou pour un de ses proches**. Il est ainsi possible de prendre en charge instantanément une montée émotionnelle en auto-application. A l’issue des consultations, les patients peuvent recevoir un schéma récapitulant la technique en vue d’un usage personnel."
 
 ################################## Déroulement  ####################################
 deroulement:
