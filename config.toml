@@ -79,7 +79,7 @@ hasChildren = true
 
 	[[menu.main]]
 	parent = "La sexologie"
-	name = "La formation / le soutien technique auprès de professionnels"
+	name = "Pour les professionnels"
 	URL = "sexologie#4"
 	weight = 5
 
