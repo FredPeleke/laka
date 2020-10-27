@@ -96,8 +96,6 @@
 </section>
 {{ end }}
 
-
-
 {{ with $data.sexologie.professionnels-1 }}
 <section class="section" id="4">
   <div class="container">
@@ -106,15 +104,13 @@
         <h3 class="section-title">{{ .title | markdownify }}</h3>
         <p class="mb-5">{{ .content | markdownify }}
         <div>
-        <ul class="list-styled style-circle">
-          {{ range .bullet_point }}
-          <li class="mb-3">{{ . | markdownify }}</li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ with $data.sexologie.professionnels-2 }}
-      <p class="mb-5">{{ .content | markdownify }}
-      {{ end }}
+          <ul class="list-styled style-circle">
+            {{ range .bullet_point }}
+            <li class="mb-3">{{ . | markdownify }}</li>
+            {{ end }}
+          </ul>
+        </div>
+
       </div>
     </div>
   </div>
