@@ -98,7 +98,7 @@
 
 
 
-{{ with $data.sexologie.professionnels }}
+{{ with $data.sexologie.professionnels-1 }}
 <section class="section" id="4">
   <div class="container">
     <div class="justify-content-between align-items-center">
@@ -112,7 +112,7 @@
           {{ end }}
         </ul>
       </div>
-      {{ with $data.sexologie.professionnels }}
+      {{ with $data.sexologie.professionnels-2 }}
       <p class="mb-5">{{ .content | markdownify }}
       {{ end }}
       </div>
