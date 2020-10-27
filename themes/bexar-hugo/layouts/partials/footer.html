@@ -121,6 +121,10 @@
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 
+<!-- Cookies -->
+<script src="../plugins/cookiechoices/cookiechoices.js"></script><script>document.addEventListener('DOMContentLoaded', function(event){cookieChoices.showCookieConsentBar('Ce site utilise des cookies pour vous proposer le meilleur service possible.', 'J’accepte', 'En savoir plus', './mentions-legales/');});</script>
+<!-- /Cookies -->
+
 {{ "<!-- google analitycs -->" | safeHTML }}
 {{ with .Site.Params.google_analitycs_id}}
 <script>
