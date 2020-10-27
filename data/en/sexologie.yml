@@ -125,7 +125,7 @@ ateliers:
   alt : "Jouer à Sexploration dans les Ateliers collectif avec Stéphanie Lacassagne"
   lien : "https://playtopla.com/collections/sexploration"
 ################################## professionnels  ####################################
-professionnels-1:
+professionnels1:
   enable : true
   subtitle : "intro"
   title : "La formation / le soutien technique auprès de professionnels :"
@@ -141,7 +141,7 @@ professionnels-1:
     - "de se sentir légitime pour le faire ;"
     - "de le faire de manière appropriée."
 
-professionnels-2:
+professionnels2:
   content : "Je propose des formations sur des thématiques spécifiques définies préalablement et/ou du soutien technique auprès d’institutions et de professionnels, sur des questions liées à la sexualité de leurs publics. 
 
 
