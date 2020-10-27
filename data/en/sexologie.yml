@@ -120,9 +120,10 @@ ateliers:
 
 
   Les tarifs des ateliers dépendent de la durée, du nombre de séances et de participants, ainsi que du lieu d’animation."
-  image : "images/about/carte-viste-EFT.jpg"
-  image_webp : "images/about/carte-viste-EFT.webp"
-  alt : "carte de visite EFT Stéphanie Lacassagne"
+  image : "images/about/Atelier-collectif.jpg"
+  image_webp : "images/about/Atelier-collectif.webp"
+  alt : "Jouer à Sexploration dans les Ateliers collectif avec Stéphanie Lacassagne"
+  lien : "https://playtopla.com/collections/sexploration"
 ################################## professionnels  ####################################
 professionnels:
   enable : true
