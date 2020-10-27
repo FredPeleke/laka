@@ -17,6 +17,14 @@ p, .paragraph {
   font-family: $primary-font;
 }
 
+.pourquoi {
+  font-weight: 400;
+  color: $white;
+  font-size: 15px;
+  line-height: 1.6;
+  font-family: $primary-font;
+}
+
 h1,h2,h3,h4,h5,h6 {
   color: $primary-color;
   font-family: $secondary-font;
