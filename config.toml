@@ -28,10 +28,6 @@ link = "plugins/venobox/venobox.css"
 
 # JS Plugins
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
