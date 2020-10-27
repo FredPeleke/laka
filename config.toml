@@ -120,13 +120,9 @@ weight = 3
 # footer menu
 [[menu.footer]]
 name = "Mentions légales"
-URL = "terms"
+URL = "mentions-legales"
 weight = 1
 
-[[menu.footer]]
-name = "Politique de confidentialité"
-URL = "privacy-policy"
-weight = 2
 
 ########################### Default parameters ######################
 [params]
