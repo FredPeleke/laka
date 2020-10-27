@@ -8,6 +8,13 @@
       <div class="h3 section-title-sm">{{ .subtitle | markdownify }}</div>
       <!--h2 class="section-title">{{ .title | markdownify }}</h2-->
       <p class="mb-5">{{ .content | markdownify }}
+      <div>
+        <ul class="list-styled style-circle">
+          {{ range .bullet_point }}
+          <li class="mb-3">{{ . | markdownify }}</li>
+          {{ end }}
+        </ul>
+      </div>
       {{ if .button.enable }}
       {{ with .button }}
       <a href="{{ .link | absLangURL }}" class="btn btn-primary hover-ripple">{{ .label }}</a>
