@@ -33,13 +33,7 @@ matrix:
 pourquoi:
   enable : true
   title : "Quand et pourquoi consulter ?"
-  subtitle : "L’EFT et Matrix Reimprinting sont des techniques très efficaces pour un apaisement rapide et durable. Ces techniques douces et non invalidantes fonctionnent très bien avec les enfants ainsi qu’avec des personnes de tout âge, dans toute situation.
-
-
-  L’EFT est un outil intéressant car **une fois la technique connue, après une ou plusieurs séances, chacun peut l’utiliser seul, pour soi-même et/ou pour un de ses proches**. Il est ainsi possible de prendre en charge instantanément une montée émotionnelle en auto-application. A l’issue des consultations, les patients peuvent recevoir un schéma récapitulant la technique en vue d’un usage personnel.
-
-
-  Il est utile de consulter pour une ou plusieurs séances de psychologie énergétique quand :"
+  subtitle : "Il est utile de consulter pour une ou plusieurs séances de psychologie énergétique quand :"
   bullet_point:
     - "on souffre d’une émotion invalidante car débordante comme la peur, tristesse, honte, culpabilité, colère"
     - "on est envahi, bloqué par un évènement traumatique comme un accident, une maladie, un décès, une difficulté professionnelle, familiale, une situation relationnelle problématique"
