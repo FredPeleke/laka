@@ -18,6 +18,10 @@ p, .paragraph {
 }
 
 div, .pourquoi {
+  color: $white;
+}
+
+p, .pourquoi {
   font-weight: 400;
   color: $white;
   font-size: 15px;
