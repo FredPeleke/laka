@@ -78,7 +78,7 @@ partenaires :
       image_webp : "images/about/logo-ifpec.webp"
       lien : "https://ifpec.org/"
       alt : "logo IFPEC"
-    - image : "images/about/logo-SNSC.png"
+    - image : "images/about/logo-SNSC.jpg"
       image_webp : "images/about/logo-SNSC.webp"
       lien : "https://www.snsc.fr/people"
       alt : "logo SNSC"
