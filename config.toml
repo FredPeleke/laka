@@ -148,7 +148,7 @@ search = false
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
