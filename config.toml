@@ -50,7 +50,6 @@ link = "plugins/search/search.js"
 # main menu
 [[menu.main]]
 name = "La sexologie"
-URL = "sexologie"
 weight = 1
 hasChildren = true
 
