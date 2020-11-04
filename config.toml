@@ -140,7 +140,7 @@ address = "Association Ekitegia, 33 chemin de l’Aquitaine 64100 Bayonne"
 mobile = "0788319163"
 email = "sexobayonne@protonmail.com"
 # contact form action
-contact_form_action = "mailto:fred.maget@webplusun.fr" # contact form works with https://formspree.io
+contact_form_action = "mailto:sexobayonne@protonmail.com" # contact form works with https://formspree.io
 
 # Google Analitycs
 google_analitycs_id = "" # your id
