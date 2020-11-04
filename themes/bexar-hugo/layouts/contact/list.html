@@ -51,13 +51,13 @@
       {{ end }}
       <div class="col-md-7">
         <h3 class="section-title">{{ i18n "contact_form" }}</h3>
-        <form action="{{ .Site.Params.contact_form_action }}" method="POST" class="row">
+        <form action="{{ .Site.Params.contact_form_action }}" method="POST" class="row" enctype="text/plain">
           <div class="col-md-6">
-            <input type="text" name="name" id="name" class="form-control border-0 rounded-0 box-shadow mb-4"
+            <input type="text" name="nom" id="name" class="form-control border-0 rounded-0 box-shadow mb-4"
               placeholder="Nom">
           </div>
           <div class="col-md-6">
-            <input type="email" name="mail" id="mail" class="form-control border-0 rounded-0 box-shadow mb-4"
+            <input type="email" name="email" id="mail" class="form-control border-0 rounded-0 box-shadow mb-4"
               placeholder="eMail">
           </div>
           <div class="col-md-6">
@@ -65,7 +65,7 @@
               placeholder="Téléphone">
           </div>
           <div class="col-md-6">
-            <input type="text" name="subject" id="subject" class="form-control border-0 rounded-0 box-shadow mb-4"
+            <input type="text" name="sujet" id="subject" class="form-control border-0 rounded-0 box-shadow mb-4"
               placeholder="Sujet">
           </div>
           <div class="col-12">
