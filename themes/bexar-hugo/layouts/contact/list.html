@@ -67,9 +67,12 @@
           </div>
         </form>
       </div>
+      {{ with $data.psychologie.psychologie }}
       <div class="col-md-4 bg-contain mb-md-0">
-        <img class="img-fluid w-100 box-shadow" src="images/about/carte-viste-EFT.jpg" alt="Cartes de visite EFT par Stéphanie Lacassagne" />
+        {{ "<!-- intro -->" | safeHTML }}
+        <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
       </div>
+      {{ end }}
     </div>
   </div>
 </section>
