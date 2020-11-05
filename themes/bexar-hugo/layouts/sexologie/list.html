@@ -94,7 +94,10 @@
       <div class="col-md-4 bg-contain">
         {{ "<!-- ateliers -->" | safeHTML }}
         <a href="{{ .lien }}" rel="noopener noreferrer nofollow" target="_blank">
+          <figure>
           <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}"/>
+          <figcaption>Sexploration, un jeu Playtopla©</figcaption>
+          </figure>
         </a>
       </div>
       <div class="col-md-7">
