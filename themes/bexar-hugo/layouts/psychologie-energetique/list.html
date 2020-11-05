@@ -29,7 +29,7 @@
       </div>
       <div class="col-md-4 bg-contain" data-background="{{ .bg_image | absURL }}">
         {{ "<!-- intro -->" | safeHTML }}
-        <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="">
+        <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
       </div>
     </div>
   </div>
