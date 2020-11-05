@@ -9,29 +9,14 @@
           <!-- logo -->
           <a class="mb-4 d-inline-block" href="{{ .Site.BaseURL | relLangURL }}"><img class="img-fluid"
               src="{{ .Site.Params.logo_footer | absURL }}" alt="{{ .Site.Title }}"></a>
-          <p class="text-light mb-5">{{ .Site.Params.footer_content | markdownify }}</p>
-          <!--h4 class="text-white mb-4">{{ i18n "follow" }}</h4-->
-          <!-- social links -->
-          <!--ul class="list-inline social-icon-alt">
-            {{ range .Site.Params.social }}
-            <li class="list-inline-item">
-              <a class="hover-ripple" href="{{ .link | safeURL }}"><i class="fa {{ .icon }}"></i></a>
-            </li>
-            {{ end }}
-          </ul-->
+          {{ if .Site.Params.footer_content.enable }}
+          {{ with .Site.Params.footer_content }}
+          <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
+          {{ end }}
+          {{ end }}
         </div>
         <div class="col-lg-7">
           <div class="row">
-            <!-- service liste -->
-            <!--div class="col-6 mb-5">
-              <h4 class="text-white mb-4">{{ i18n "services" }}</h4>
-              <ul class="list-styled">
-                {{ range (where .Site.RegularPages "Type" "service")}}
-                <li class="mb-3 text-light"><a class="text-light d-block" href="{{ .Permalink }}">{{ .Title }}</a>
-                </li>
-                {{ end }}
-              </ul>
-            </div-->
             <!-- contact info -->
             <div class="mb-5" style="padding-left:15px;padding-right:15px">
               <p class="h4 text-white mb-4">{{ i18n "contact_info"}}</p>
