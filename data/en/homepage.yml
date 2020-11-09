@@ -92,6 +92,7 @@ contact :
   enable : true
     image : "images/about/carte-site-laca.jpg"
     image_webp : "images/about/carte-site-laca.webp"
+    alt : "carte de visites"
 ################################## funfacts ###############################
 funfacts :
   enable : false
