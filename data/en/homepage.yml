@@ -88,6 +88,11 @@ partenaires :
       alt : "logo Ekitegia"
 
 ################################## funfacts ###############################
+contact :
+  enable : true
+    image : "images/about/carte-site-laca.jpg"
+    image_webp : "images/about/carte-site-laca.webp"
+################################## funfacts ###############################
 funfacts :
   enable : false
   funfacts_item :

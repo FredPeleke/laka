@@ -67,7 +67,7 @@
           </div>
         </form>
       </div>
-      {{ with $data.psychologie.psychologie }}
+      {{ with $data.homepage.contact }}
       <div class="col-md-4 bg-contain mb-md-0">
         {{ "<!-- intro -->" | safeHTML }}
         <img class="img-fluid w-100 box-shadow" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
