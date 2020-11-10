@@ -1,5 +1,5 @@
 ########################### Default configuration ######################
-baseURL = "http://stephanie-lacassagne.fr"
+baseURL = "https://stephanie-lacassagne.fr"
 title = "Consultations sexologie"
 theme = "bexar-hugo"
 # post pagination
