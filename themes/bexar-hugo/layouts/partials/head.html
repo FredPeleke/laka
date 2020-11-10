@@ -23,6 +23,16 @@
 <link rel="stylesheet preload" href="{{ $styles.Permalink }}" media="screen" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen"></noscript>
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180180966-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180180966-1');
+</script>
+
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/Stephanie-Lacassagne-Favicon.png` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/Stephanie-Lacassagne-Favicon.png` | absURL }} " type="image/x-icon">
@@ -32,5 +42,5 @@
 
   <!-- og -->
   <meta property="og:locale" content="fr_FR" /><meta property="og:type" content="website" /><meta property="og:title" content="{{ .Title }} | Stéphanie Lacassagne" /><meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" /><meta property="og:site_name" content="stephanie-lacassagne.fr" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="{{ .Title }} | Stéphanie Lacassagne" /><meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}" /><meta name="twitter:image" content="/images/logo-site.png" />
-</head>
+
 </head>
