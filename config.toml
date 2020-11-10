@@ -1,5 +1,5 @@
 ########################### Default configuration ######################
-baseURL = "https://dev-stephanie-lacassagne.netlify.app"
+baseURL = "https://stephanie-lacassagne.fr"
 title = "Consultations sexologie"
 theme = "bexar-hugo"
 # post pagination
