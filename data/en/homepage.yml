@@ -85,8 +85,10 @@ partenaires :
       lien : "https://www.ekitegia.eus"
       alt : "logo Ekitegia"
 
-################################## funfacts ###############################
+################################## contact ###############################
 contact :
+  enable : true
+  contact_item :
     - image : "images/about/logo-bascos2-web.png"
       lien : "https://www.lesbascos.fr/"
       alt : "Les Bascos"
