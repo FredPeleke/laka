@@ -35,5 +35,27 @@
 </section>
 {{ "<!-- /contact item -->" | safeHTML }}
 
+{{ if $data.homepage.contact.enable }}
+{{ with $data.homepage.contact }}
+{{ "<!-- contact -->" | safeHTML }}
+<div>
+  <div class="container">
+    <div class="row p-5">
+      {{ range .contact }}
+      {{ "<!-- contact item -->" | safeHTML }}
+      <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+        <div class="d-flex align-items-center">
+          <a href="{{ .lien }}" rel="noopener noreferrer nofollow" target="_blank">
+          <img class="img-fluid w-100" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
+          </a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ "<!-- /contact -->" | safeHTML }}
+{{ end }}
+{{ end }}
 
 {{ end }}
