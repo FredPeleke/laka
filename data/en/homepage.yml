@@ -88,19 +88,15 @@ partenaires :
 ################################## funfacts ###############################
 contact :
     - image : "images/about/logo-bascos2-web.png"
-      image_webp : "images/about/logo-bascos2-web.webp"
       lien : "https://www.lesbascos.fr/"
       alt : "Les Bascos"
     - image : "images/about/logo-FeesNoMen.png"
-      image_webp : "images/about/logo-FeesNoMen.webp"
       lien : "http://www.lesfeesnomen40.com/"
       alt : "Les Fées No Men"
     - image : "images/about/logo-garazi-en-rose.jpg"
-      image_webp : "images/about/logo-garazi-en-rose.webp"
       lien : "https://www.garazienrose.com/"
       alt : "Garazi en rose"
     - image : "images/about/Logo-Sexoblogue.png"
-      image_webp : "images/about/Logo-Sexoblogue.webp"
       lien : "https://sexoblogue.fr/"
       alt : "Garazi en rose"
 ################################## funfacts ###############################
