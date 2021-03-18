@@ -35,7 +35,6 @@
 </section>
 {{ "<!-- /contact item -->" | safeHTML }}
 
-{{ if $data.homepage.contact.enable }}
 {{ with $data.homepage.contact }}
 {{ "<!-- contact -->" | safeHTML }}
 <div>
@@ -55,7 +54,6 @@
   </div>
 </div>
 {{ "<!-- /contact -->" | safeHTML }}
-{{ end }}
 {{ end }}
 
 {{ end }}
