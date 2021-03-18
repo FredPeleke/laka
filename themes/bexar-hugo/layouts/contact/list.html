@@ -35,17 +35,18 @@
 </section>
 {{ "<!-- /contact item -->" | safeHTML }}
 
-{{ with $data.homepage.contact }}
-{{ "<!-- contact -->" | safeHTML }}
+{{ if $data.homepage.partenaires.enable }}
+{{ with $data.homepage.partenaires }}
+{{ "<!-- partenaires -->" | safeHTML }}
 <div>
   <div class="container">
     <div class="row p-5">
-      {{ range .contact_item }}
-      {{ "<!-- contact item -->" | safeHTML }}
+      {{ range .partenaires_item }}
+      {{ "<!-- partenaires item -->" | safeHTML }}
       <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
         <div class="d-flex align-items-center">
           <a href="{{ .lien }}" rel="noopener noreferrer nofollow" target="_blank">
-          <img class="img-fluid w-100" src="{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
+          <img class="img-fluid w-100" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}">
           </a>
         </div>
       </div>
@@ -53,7 +54,8 @@
     </div>
   </div>
 </div>
-{{ "<!-- /contact -->" | safeHTML }}
+{{ "<!-- /partenaires -->" | safeHTML }}
+{{ end }}
 {{ end }}
 
 {{ end }}
