@@ -101,6 +101,9 @@ contact :
     - image : "images/about/Logo-Sexoblogue.png"
       lien : "https://sexoblogue.fr/"
       alt : "Garazi en rose"
+    - image : "images/about/logo-Guty.png"
+      lien : "  https://www.guty.me/"
+      alt : "Guty"
 ################################## funfacts ###############################
 funfacts :
   enable : false
