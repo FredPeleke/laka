@@ -90,7 +90,7 @@ contact :
   enable : true
   contact_item :
     - image : "images/about/logo-bascos2-web.png"
-      lien : "https://www.lesbascos.fr/"
+      lien : "https://www.lesbascos.org/"
       alt : "Les Bascos"
     - image : "images/about/logo-FeesNoMen.png"
       lien : "http://www.lesfeesnomen40.com/"
@@ -104,6 +104,9 @@ contact :
     - image : "images/about/logo-Guty.png"
       lien : "https://www.guty.me/"
       alt : "Guty"
+    - image : "images/about/logo-Bien-etre.png"
+      lien : "https://www.proxibienetre.fr/"
+      alt : "Proxi Bien Être"
 ################################## funfacts ###############################
 funfacts :
   enable : false
