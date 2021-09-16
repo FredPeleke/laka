@@ -43,8 +43,8 @@
     <div class="row p-5">
       {{ range .contact_item }}
       {{ "<!-- contact item -->" | safeHTML }}
-      <div class="col-md col-sm mb-4 mb-md-0">
-        <div class="d-flex align-items-center" style="vertical-align: middle;">
+      <div class="col-md col-sm mb-4 mb-md-0" style="vertical-align: middle;">
+        <div class="d-flex align-items-center">
           <a href="{{ .lien }}" rel="noopener noreferrer nofollow" target="_blank">
           <img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}" width="170">
           </a>
