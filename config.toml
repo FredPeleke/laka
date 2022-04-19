@@ -85,6 +85,7 @@ hasChildren = true
 	URL = "sexologie#4"
 	weight = 5
 
+
 [[menu.main]]
 name = "La psychologie énergétique"
 weight = 2
@@ -118,6 +119,11 @@ hasChildren = true
 name = "Contact"
 URL = "contact"
 weight = 3
+
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 4
 
 # footer menu
 [[menu.footer]]
