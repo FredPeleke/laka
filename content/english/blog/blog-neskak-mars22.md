@@ -8,7 +8,7 @@ bg_image_webp: ""
 bg_image: ""
 # post thumbnail
 image_webp: ""
-image: "logo-casquette-neska-2.png"
+image: "images/about/logo-casquette-neska-2.png"
 # post author
 author: "Stéphanie Lacassagne"
 # taxonomies
