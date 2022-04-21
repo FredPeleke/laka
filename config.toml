@@ -116,13 +116,13 @@ hasChildren = true
 	weight = 4
 
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Blog"
+URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Blog"
-URL = "blog"
+name = "Contact"
+URL = "contact"
 weight = 4
 
 # footer menu
