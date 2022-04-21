@@ -121,8 +121,8 @@ URL = "contact"
 weight = 3
 
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Blog"
+URL = "blog"
 weight = 4
 
 # footer menu
