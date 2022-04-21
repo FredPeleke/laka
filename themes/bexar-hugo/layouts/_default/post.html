@@ -1,7 +1,7 @@
 <div class="card border-0 rounded-0 position-relative box-shadow">
   {{ with .Params.Categories }}{{range first 1 .}} <div class="card-type">{{ . | title }}</div>{{ end }}{{ end }}
-  <img class="img-fluid card-img-top rounded-0" src="{{ .Params.Image_webp | absURL }}"
-    onerror="this.src='{{.Params.Image | absURL }}'" alt="{{ .Title }}">
+  <!--img class="img-fluid card-img-top rounded-0" src="{{ .Params.Image_webp | absURL }}"
+    onerror="this.src='{{.Params.Image | absURL }}'" alt="{{ .Title }}"-->
   <div class="card-body">
     <div class="card-meta text-uppercase mb-2"><!--par <strong class="text-dark">{{ .Params.Author }}</strong>/--> publié le
       <strong class="text-dark">{{ .PublishDate.Format "02 Jan 2006" }}</strong></div>
