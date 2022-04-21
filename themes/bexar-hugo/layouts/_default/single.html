@@ -8,10 +8,7 @@
     <div class="row">
       <div class="col-lg-8">
         {{ "<!-- post thumb -->" | safeHTML }}
-        <div class="position-relative mb-5">
-          <img src="{{ .Params.Image_webp | absURL }}"  onerror="this.src='{{.Params.Image | absURL }}'" alt="post thumb" class="img-fluid w-100">
-          {{ with .Params.Categories }}{{range first 1 .}} <div class="card-type">{{ . | title }}</div>{{ end }}{{ end }}
-        </div>
+        
         <div class="card-meta text-uppercase mb-2"><!-- par <strong class="text-dark">{{ .Params.Author }}</strong>/--> publié le <strong class="text-dark">{{ .PublishDate.Format "02 Jan 2006" }}</strong></div>
         <h2>{{ .Title }}</h2>
         <div class="content">
@@ -25,6 +22,10 @@
             <li class="list-inline-item"><a class="text-color" href="{{ `tags/` | absURL }}{{ . | lower }}">{{ . }}</a>,</li>
             {{ end }}
           </ul>
+        </div>
+        <div class="position-relative mb-5">
+          <img src="{{ .Params.Image_webp | absURL }}"  onerror="this.src='{{.Params.Image | absURL }}'" alt="{{.params.Description}}" class="img-fluid w-100">
+          {{ with .Params.Categories }}{{range first 1 .}} <div class="card-type">{{ . | title }}</div>{{ end }}{{ end }}
         </div>
 
       </div>
