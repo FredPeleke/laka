@@ -120,6 +120,11 @@ name = "Contact"
 URL = "contact"
 weight = 3
 
+[[menu.main]]
+name = "Contact"
+URL = "contact"
+weight = 4
+
 # footer menu
 [[menu.footer]]
 name = "Mentions légales"
