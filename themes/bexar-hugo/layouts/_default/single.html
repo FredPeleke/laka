@@ -24,7 +24,7 @@
           </ul>
         </div>
         <div class="position-relative mb-5">
-          <img src="{{ .Params.Image_webp | absURL }}"  onerror="this.src='{{.Params.Image | absURL }}'" alt="{{.params.Description}}" class="img-fluid w-100">
+          <img src="{{ .Params.Image_webp | absURL }}"  onerror="this.src='{{.Params.Image | absURL }}'" alt="post thumb" class="img-fluid w-100">
           {{ with .Params.Categories }}{{range first 1 .}} <div class="card-type">{{ . | title }}</div>{{ end }}{{ end }}
         </div>
 
