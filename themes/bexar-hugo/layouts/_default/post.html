@@ -1,5 +1,4 @@
-<div class="card border-0 rounded-0 position-relative box-shadow">
-  {{ with .Params.Categories }}{{range first 1 .}} <div class="card-type">{{ . | title }}</div>{{ end }}{{ end }}
+
   <!--img class="img-fluid card-img-top rounded-0" src="{{ .Params.Image_webp | absURL }}"
     onerror="this.src='{{.Params.Image | absURL }}'" alt="{{ .Title }}"-->
   <div class="card-body">
@@ -9,4 +8,3 @@
     <div class="section-title-border"></div>
     <p class="card-text">{{ .Summary }}</p>
   </div>
-</div>
