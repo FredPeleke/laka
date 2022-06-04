@@ -18,7 +18,7 @@ tags: ["Atelier","Apero sexo"]
 type: "post"
 ---
 
-<img src="images/blog/photo_1ermai22_banderole_Fees.jpg" class="img-fluid" alt="Les Feesnomen40 : Rallye du 1er mai" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">
+{{<image src="images/blog/photo_1ermai22_banderole_Fees.jpg" class="img-fluid" srcAlt="Les Feesnomen40 : Rallye du 1er mai" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">}}
 
 Le 1er mai dernier, j'ai tenu un stand en tant que partenaire dans le cadre du traditionnel [Rallye du 1er mai](https://www.lesfeesnomen40.com/les-rallyes).
 
