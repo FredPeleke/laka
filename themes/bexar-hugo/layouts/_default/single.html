@@ -23,10 +23,10 @@
             {{ end }}
           </ul>
         </div>
-        <div class="position-relative mb-5">
+        <!--div class="position-relative mb-5">
           <img src="{{ .Params.Image_webp | absURL }}"  onerror="this.src='{{.Params.Image | absURL }}'" alt="{{ .Description }}" class="img-fluid w-100">
           {{ with .Params.Categories }}{{range first 1 .}} <div class="card-type">{{ . | title }}</div>{{ end }}{{ end }}
-        </div>
+        </div-->
 
       </div>
       {{ partial "sidebar.html" . }}
