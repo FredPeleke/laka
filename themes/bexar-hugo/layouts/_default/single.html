@@ -10,10 +10,12 @@
         {{ "<!-- post thumb -->" | safeHTML }}
         
         <div class="card-meta text-uppercase mb-2"><!-- par <strong class="text-dark">{{ .Params.Author }}</strong>/--> publié le <strong class="text-dark">{{ .PublishDate.Format "02 Jan 2006" }}</strong></div>
-        <h2>{{ .Title }}</h2>
+        <!--h2>{{ .Title }}</h2-->
+
         <div class="content">
           {{ .Content }}
         </div>
+
         {{ "<!-- tags -->" | safeHTML }}
         <div class="mb-3">
           <p class="h5 d-inline-block mr-3">Tags:</p>
