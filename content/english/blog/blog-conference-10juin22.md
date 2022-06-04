@@ -13,7 +13,7 @@ image: "images/blog/Affiche_La sexualité et nos enfants_10juin2022.jpg"
 author: "Stéphanie Lacassagne"
 # taxonomies
 categories: ["Interventions"]
-tags: ["Atelier","Apero sexo"]
+tags: ["Conférence"]
 # type
 type: "post"
 ---
