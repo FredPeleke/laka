@@ -17,14 +17,14 @@
         </div>
 
         {{ "<!-- tags -->" | safeHTML }}
-        <div class="mb-3">
+        <!--div class="mb-3">
           <p class="h5 d-inline-block mr-3">Tags:</p>
           <ul class="list-inline d-inline-block">
             {{ range .Params.Tags }}
             <li class="list-inline-item"><a class="text-color" href="{{ `tags/` | absURL }}{{ . | lower }}">{{ . }}</a>,</li>
             {{ end }}
           </ul>
-        </div>
+        </div-->
         <!--div class="position-relative mb-5">
           <img src="{{ .Params.Image_webp | absURL }}"  onerror="this.src='{{.Params.Image | absURL }}'" alt="{{ .Description }}" class="img-fluid w-100">
           {{ with .Params.Categories }}{{range first 1 .}} <div class="card-type">{{ . | title }}</div>{{ end }}{{ end }}
