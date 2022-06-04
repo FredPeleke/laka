@@ -20,7 +20,6 @@ type: "post"
 
 <img src="images/blog/photo_1ermai22_banderole_Fees.jpg" class="img-fluid" alt="Les Feesnomen40 : Rallye du 1er mai" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">
 
-# Les Feesnomen40 : Rallye du 1er mai
 Le 1er mai dernier, j'ai tenu un stand en tant que partenaire dans le cadre du traditionnel [Rallye du 1er mai](https://www.lesfeesnomen40.com/les-rallyes).
 
 Ce fut pour moi l'occasion de discuter, entre autres, avec Philippe Rémuzon, le président du comité des landes de la ligue contre le cancer des Landes.
