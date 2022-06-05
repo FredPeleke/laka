@@ -2,7 +2,7 @@
 title: "Les Feesnomen40 : Rallye du 1er mai"
 date: 2022-05-02T10:47:55+06:00
 # meta description
-description: "J'étais partenaire dans le cadre du traditionnel Rallye du 1er mai."
+description: "J'étais partenaire dans le cadre du traditionnel Rallye du 1er mai de l'association Les Feesnomen40."
 # page title background image
 bg_image_webp: ""
 bg_image: ""
