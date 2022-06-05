@@ -8,12 +8,12 @@ bg_image_webp: ""
 bg_image: ""
 # post thumbnail
 image_webp: ""
-image: "/uploads/photo_1ermai22_banderole_Fees.jpg"
+image: "/uploads/photo-1ermai22-banderole-fees.jpg"
 # post author
 author: "Stéphanie Lacassagne"
 # taxonomies
 categories: ["Interventions"]
-tags: ["Atelier","Apero sexo"]
+tags: ["Atelier"]
 # type
 type: "post"
 ---
