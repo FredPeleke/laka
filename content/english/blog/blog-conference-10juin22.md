@@ -18,11 +18,13 @@ tags: ["Conférence"]
 type: "post"
 ---
 
+---
 ## "Et si on parlait de sexualité à nos enfants?"
+
 C'est le thème de ma prochaine intervention à la [librairie chez Simone à Bayonne](https://www.bayonneshopping.com/magasin/librairie-chez-simone/) le vendredi 10 juin 2022 à 19h.
 
 Venez écouter, découvrir, participer à cette conférence seul.e, entre ami.es, en famille, avec vos enfants afin de comprendre et définir les rouages et limites d'un aspect vital de notre vie afin de le rendre ludique autant que pudique.
 
 Venez nombreuses et nombreux, grand.es et petit.es, car l'entrée est libre et gratuite.
 
-<img src="blog/Affiche_La sexualité et nos enfants_10juin2022.jpg" class="img-fluid" alt="intervention à la librairie chez Simone à Bayonne le vendredi 10 juin 2022 à 19h" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">
+![](/uploads/affiche-la-sexualite-et-nos-enfants-10juin2022.jpg)
