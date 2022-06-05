@@ -8,7 +8,7 @@ bg_image_webp: ""
 bg_image: ""
 # post thumbnail
 image_webp: ""
-image: "blog/photo_1ermai22_banderole_Fees.jpg"
+image: "/uploads/photo_1ermai22_banderole_Fees.jpg"
 # post author
 author: "Stéphanie Lacassagne"
 # taxonomies
@@ -18,7 +18,7 @@ tags: ["Atelier","Apero sexo"]
 type: "post"
 ---
 
-<img src="blog/photo-1ermai22-banderole-fees.jpg" class="img-fluid" alt="Les Feesnomen40 : Rallye du 1er mai" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">
+<img src="/uploads/photo-1ermai22-banderole-fees.jpg" class="img-fluid" alt="Les Feesnomen40 : Rallye du 1er mai" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async">
 
 Le 1er mai dernier, j'ai tenu un stand en tant que partenaire dans le cadre du traditionnel [Rallye du 1er mai](https://www.lesfeesnomen40.com/les-rallyes).
 
@@ -26,4 +26,4 @@ Ce fut pour moi l'occasion de discuter, entre autres, avec Philippe Rémuzon, le
 
 Une belle journée pleine de passage, de rencontres, d'ambiance chaleureuse, avec [des ateliers divers et variés proposés par différents partenaires](https://www.lesfeesnomen40.com/c%C3%B4t%C3%A9-psy) pour sensibiliser aux cancers féminins et récolter des fonds. 
 
-<img src="blog/photo-1ermai22-stand-ligue-cancer.jpg" class="img-fluid" alt="Les Feesnomen40 : Rallye du 1er mai" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">
+<img src="/uploads/photo-1ermai22-stand-ligue-cancer.jpg" class="img-fluid" alt="Les Feesnomen40 : Rallye du 1er mai" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async">
