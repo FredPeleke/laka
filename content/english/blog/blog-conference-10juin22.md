@@ -8,7 +8,7 @@ bg_image_webp: ""
 bg_image: ""
 # post thumbnail
 image_webp: ""
-image: "blog/Affiche_La sexualité et nos enfants_10juin2022.jpg"
+image: "blog/affiche-la sexualite-et-nos-enfants-10juin2022.jpg"
 # post author
 author: "Stéphanie Lacassagne"
 # taxonomies
