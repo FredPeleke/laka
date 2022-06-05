@@ -8,7 +8,7 @@ bg_image_webp: ""
 bg_image: ""
 # post thumbnail
 image_webp: ""
-image: "blog/affiche-la sexualite-et-nos-enfants-10juin2022.jpg"
+image: "uploads/affiche-la sexualite-et-nos-enfants-10juin2022.jpg"
 # post author
 author: "Stéphanie Lacassagne"
 # taxonomies
@@ -27,4 +27,5 @@ Venez écouter, découvrir, participer à cette conférence seul.e, entre ami.es
 
 Venez nombreuses et nombreux, grand.es et petit.es, car l'entrée est libre et gratuite.
 
-![](/uploads/affiche-la-sexualite-et-nos-enfants-10juin2022.jpg)
+{{<img src="uploads/Affiche_La sexualité et nos enfants_10juin2022.jpg" class="img-fluid" alt="intervention à la librairie chez Simone à Bayonne le vendredi 10 juin 2022 à 19h" style="float:right;" data-aos="fade-up" loading="lazy" decoding="async">}}
+
