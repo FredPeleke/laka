@@ -65,49 +65,37 @@
   translation: statut
 
 - id: January
-
-translation: Janvier
+  translation: Janvier
 
 - id: February
-
-translation: Fevrier
+  translation: Fevrier
 
 - id: March
-
-translation: Mars
+  translation: Mars
 
 - id: April
-
-translation: Avril
+  translation: Avril
 
 - id: May
-
-translation: Mai
+  translation: Mai
 
 - id: June
-
-translation: Juin
+  translation: Juin
 
 - id: July
-
-translation: Juillet
+  translation: Juillet
 
 - id: August
-
-translation: Août
+  translation: Août
 
 - id: September
-
-translation: Septembre
+  translation: Septembre
 
 - id: October
-
-translation: Octobre
+  translation: Octobre
 
 - id: November
-
-translation: Novembre
+  translation: Novembre
 
 - id: December
-
-translation: Decembre
+  translation: Decembre
