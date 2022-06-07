@@ -32,4 +32,4 @@ Mon intervention a laissé entrevoir des solutions et la sororité ambiante a r�
 
 A la demande générale, c'est sûr, il y en aura d'autres : affaire à suivre !
 
-<img src="/uploads/photo_kfeees_sexo_4juin22.jpg" class="img-fluid" alt="Samedi 4 juin 2022, j'ai animé le premier Kfées Sexo à Dax pour l'association les Fées No Men" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async">
+<img src="/uploads/photo_kfees_sexo_4juin22.jpg" class="img-fluid" alt="Samedi 4 juin 2022, j'ai animé le premier Kfées Sexo à Dax pour l'association les Fées No Men" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async">
