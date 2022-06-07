@@ -23,7 +23,7 @@ type: "post"
 
 Samedi 4 juin 2022, j'ai animé le premier "Kfées Sexo" à Dax pour l'association [les Fées No Men](https://www.lesfeesnomen40.com/).
 
-##Quel est l'impact de la maladie (des cancers féminins en l’occurrence) sur la sexualité, sur la vie intime ?
+## Quel est l'impact de la maladie (des cancers féminins en l’occurrence) sur la sexualité, sur la vie intime ?
 Voilà la thématique qui nous a rassemblées entre 16h et 18h autour d'un moment intense et convivial grâce à l’initiative des Fées No Men pour proposer des actions au titre des soins de supports.
 
 L'utilisation du support ludique qu'est le "photo langage" fut l'occasion de nous dévoiler, de faire liens, d'échanger. La présence active, curieuse, authentique et bienveillante des six participantes a permis un "Kfées sexo" très riche en partages, émotions et humour !
