@@ -19,9 +19,9 @@ tags: ["Atelier"]
 type: "post"
 ---
 
-<img src="/uploads/kfees-sexo.jpg" class="img-fluid" alt="Kfées Sexo" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="50%">
+<img src="/uploads/kfees-sexo.jpg" class="img-fluid" alt="Kfées Sexo" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="50%">
 
-Samedi 4 juin 2022, j'ai animé le premier "Kfées Sexo" à Dax pour l'association les Fées No Men.
+Samedi 4 juin 2022, j'ai animé le premier "Kfées Sexo" à Dax pour l'association [les Fées No Men](https://www.lesfeesnomen40.com/).
 
 ##Quel est l'impact de la maladie (des cancers féminins en l’occurrence) sur la sexualité, sur la vie intime ?
 Voilà la thématique qui nous a rassemblées entre 16h et 18h autour d'un moment intense et convivial grâce à l’initiative des Fées No Men pour proposer des actions au titre des soins de supports.
