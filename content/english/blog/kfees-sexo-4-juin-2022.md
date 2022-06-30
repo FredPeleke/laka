@@ -1,5 +1,5 @@
 ---
-title: "Kfées Sexo avec Les Feesnomen40"
+title: "Kfées Impact de la maladie sur la sexualité"
 date: 2022-06-07T10:47:55+06:00
 # meta description
 description: "Quel est l'impact de la maladie (des cancers féminins en l’occurrence) sur la sexualité, sur la vie intime ?
@@ -19,7 +19,7 @@ tags: ["Atelier"]
 type: "post"
 ---
 
-<img src="/uploads/kfees-sexo.jpg" class="img-fluid" alt="Kfées Sexo" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="50%">
+<img src="/uploads/kfees-sexo.jpg" class="img-fluid" alt="Kfées Sexo" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="50%" height="auto">
 
 Samedi 4 juin 2022, j'ai animé le premier "Kfées Sexo" à Dax pour l'association [les Fées No Men](https://www.lesfeesnomen40.com/).
 
