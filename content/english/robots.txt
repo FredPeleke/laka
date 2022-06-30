@@ -4,4 +4,7 @@ Disallow: /dev-stephanie-lacassagne.netlify.app/sexologie
 Disallow: /dev-stephanie-lacassagne.netlify.app/psychologie-energetique
 Disallow: /dev-stephanie-lacassagne.netlify.app/contact
 Disallow: /dev-stephanie-lacassagne.netlify.app/mentions-legales
-Sitemap: http://www.mon-domaine.fr/sitemap.xml
+Disallow: /dev-stephanie-lacassagne.netlify.app//blog/page/2/
+Disallow: /dev-stephanie-lacassagne.netlify.app//blog/page/3/
+Disallow: /dev-stephanie-lacassagne.netlify.app//blog/page/4/
+Sitemap: https://stephanie-lacassagne.fr/sitemap.xml
