@@ -18,7 +18,7 @@ tags: ["Conférence"]
 type: "post"
 ---
 
-<img src="/uploads/conference-cci-23-mai-2022-1.jpg" class="img-fluid" alt="J'ai animé la soirée de Présentation de la sexologie, de l'intérêt de la santé sexuelle en faveur de l'épanouissement personnel le 23 mai 2022 à la CCI de Bayonne" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" max-width="20%" height="auto">
+<img src="/uploads/conference-cci-23-mai-2022-1.jpg" class="img-fluid" alt="J'ai animé la soirée de Présentation de la sexologie, de l'intérêt de la santé sexuelle en faveur de l'épanouissement personnel le 23 mai 2022 à la CCI de Bayonne" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="50%" height="auto">
 
 J'ai animé la soirée du 23 mai 2022 à la Chambre du Commerce et de l'Industrie de Bayonne devant 25 adhérentes du "D.A.F." (Diriger Au Féminin) très curieuses d'entendre parler et de poser des questions à propos de [la santé sexuelle](https://stephanie-lacassagne.fr/sexologie/) et de l'épanouissement personnel.
 
