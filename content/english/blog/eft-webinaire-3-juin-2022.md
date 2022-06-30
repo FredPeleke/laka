@@ -18,7 +18,7 @@ tags: ["Webinaire"]
 type: "post"
 ---
 
-<img src="/images/about/matrix.webp" class="img-fluid" alt="Kfées Sexo" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="100%">
+<img src="/images/about/matrix.webp" class="img-fluid" alt="EFT et pratique sexologique : Webinaire du 3 juin 2022" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="100%" height="auto">
 
 EFT et pratique sexologique : Webinaire du 3 juin 2022
 
