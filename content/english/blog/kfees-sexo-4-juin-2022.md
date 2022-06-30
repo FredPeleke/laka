@@ -1,5 +1,5 @@
 ---
-title: "Kfées Impact de la maladie sur la sexualité"
+title: "Kfées Sexo : Impact de la maladie sur la sexualité"
 date: 2022-06-07T10:47:55+06:00
 # meta description
 description: "Quel est l'impact de la maladie (des cancers féminins en l’occurrence) sur la sexualité, sur la vie intime ?
