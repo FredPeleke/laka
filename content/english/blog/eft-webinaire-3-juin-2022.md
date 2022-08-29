@@ -28,3 +28,5 @@ Savez-vous que cette technique peut être très utile dans votre pratique de Sex
 J'ai animé "Les Midis du Syndicat" durant deux heures, en visioconférence, devant une quinzaine de sexologues cliniciens très intéressés par [l'EFT (technique de libération émotionnelle)](https://stephanie-lacassagne.fr/psychologie-energetique/#1).
 
 Ma présentation de l'usage de l'EFT en consultation de sexologie a permis à certains de découvrir cette technique, et de susciter leur curiosité, leur envie de se former. Pour d'autres, cette intervention a permis d'en approfondir la connaissance et les manières de l'utiliser en consultation de sexothérapie.
+
+"_Lors de notre dernier webinaire du mois de juin 2022, nous avons eu l'immense plaisir que l'une de nos membres, la Sexologue Clinicienne Stéphanie Lacassage, nous initie à l'EFT. A cette occasion, elle nous a également familiarisé avec les bienfaits de cette pratique dans l'accompagnement sexologique de nos patients. Les membres du bureau et moi-même, tenons à remercier chaleureusement Stéphanie pour sa très belle et passionnante intervention_". La Présidente du syndicat national des sexologues
