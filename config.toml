@@ -162,7 +162,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = false
+enable = true
 label = "Prendre rendez-vous"
 link = "https://www.ibookthedate.fr/sexotherapeute-sexologue-clinicien/64100-bayonne/stephanie-lacassagne#cabinets"
 
