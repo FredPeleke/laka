@@ -113,9 +113,9 @@ contact2 :
     - image : "images/about/logo-Chez-Simone.png"
       lien : "https://www.bayonneshopping.com/magasin/librairie-chez-simone/"
       alt : "Librairie Chez Simone"
-    - image : "images/about/logo-Bien-etre.png"
-      lien : "https://www.proxibienetre.fr/"
-      alt : "Proxi Bien Être"
+    - image : "images/about/Ligue-contre-le-cancer-Logo-64.jpg"
+      lien : "#"
+      alt : "Ligue contre le cancer"
 ################################## funfacts ###############################
 funfacts :
   enable : false
