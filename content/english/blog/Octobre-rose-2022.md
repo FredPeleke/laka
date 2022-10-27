@@ -18,7 +18,7 @@ tags: ["Atelier"]
 type: "post"
 ---
 
-<img src="/images/about/parlons-amour-a-la-ligue-contre-le-cancer.jpg" class="img-fluid" alt="Atelier Parlons d'Amour à la Ligue" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="30%" height="auto">
+<img src="/uploads/parlons-amour-a-la-ligue-contre-le-cancer.jpg" class="img-fluid" alt="Atelier Parlons d'Amour à la Ligue" align="right" style="float:center;" data-aos="fade-up" loading="lazy" decoding="async" width="30%" height="auto">
 
 Octobre rose, c'est le mois de prévention des cancers féminins : j'y contribue à ma façon en permettant d'évoquer la sexothérapie comme soin de support lors d'ateliers.
 
