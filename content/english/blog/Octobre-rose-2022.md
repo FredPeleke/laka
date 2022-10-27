@@ -8,7 +8,7 @@ bg_image_webp: ""
 bg_image: ""
 # post thumbnail
 image_webp: ""
-image: "/uploads/photo_conference-10juin.jpg"
+image: "/uploads/parlons-amour-a-la-ligue-contre-le-cancer.jpg"
 # post author
 author: "Stéphanie Lacassagne"
 # taxonomies
