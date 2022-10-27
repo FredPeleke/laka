@@ -25,7 +25,7 @@ Le 10 juin 2022, j’ai animé une conférence à la librairie Chez Simone devan
 ## De quoi parlons-nous quand nous parlons de sexualité ? 
 Faut-il parler de sexualité à nos enfants ? Pourquoi parler de sexualité ? A partir de quel âge ? Comment faire ?
 
-Ce sont autant de sujets abordés durant mon intervention filmée et à revoir](https://www.facebook.com/OnKiffeSimone/videos/739560273760248) qui ont animé nos échanges avec les participants. Mon bilan de la soirée : utile et agréable ! 
+Ce sont autant de sujets abordés durant mon [intervention filmée et à revoir](https://www.facebook.com/OnKiffeSimone/videos/739560273760248) qui ont animé nos échanges avec les participants. Mon bilan de la soirée : utile et agréable ! 
 
 Merci à Sophie la libraire de nous avoir offert cet espace de parole, merci pour cette confiance renouvelée à mon égard.
 Merci aux participants pour tous leurs retours positifs sur cette conférence. 
