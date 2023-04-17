@@ -85,7 +85,7 @@ partenaires :
       lien : "https://www.ekitegia.eus"
       alt : "logo Ekitegia"
     - image : "images/about/logo-reseau-desclic.jpg"
-    image_webp : "images/about/logo-reseau-desclic.webp"
+      image_webp : "images/about/logo-reseau-desclic.webp"
       lien : "https://www.editions-desclic.fr/"
       alt : "Éditions Desclics"
 
@@ -120,6 +120,9 @@ contact2 :
     - image : "images/about/Ligue-contre-le-cancer-Logo-64.jpg"
       lien : "#"
       alt : "Ligue contre le cancer"
+    - image : "images/about/logo-reseau-desclic.jpg"
+      lien : "https://www.editions-desclic.fr/"
+      alt : "Éditions Desclics"
     
 ################################## funfacts ###############################
 funfacts :
