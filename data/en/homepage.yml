@@ -68,7 +68,7 @@ parcours:
 partenaires :
   enable : true
   partenaires_item :
-    - image : "images/about/logo-ecole-de-psycho-sexologie.png"
+    - image : "images/about/logo-ecole-de-psycho-sexologie.jpg"
       image_webp : "images/about/logo-ecole-de-psycho-sexologie.webp"
       lien : "https://www.ecole-de-psycho-sexologie.com/"
       alt : "logo École de Psycho-sexologie"
