@@ -84,7 +84,8 @@ partenaires :
       image_webp : "images/about/logo-egitegia.webp"
       lien : "https://www.ekitegia.eus"
       alt : "logo Ekitegia"
-      - image : "images/about/logo-reseau-desclic.png"
+    - image : "images/about/logo-reseau-desclic.jpg"
+    image_webp : "images/about/logo-reseau-desclic.webp"
       lien : "https://www.editions-desclic.fr/"
       alt : "Éditions Desclics"
 
