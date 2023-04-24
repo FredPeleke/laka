@@ -120,9 +120,9 @@ contact2 :
     - image : "images/about/Ligue-contre-le-cancer-Logo-64.jpg"
       lien : "#"
       alt : "Ligue contre le cancer"
-    - image : "images/about/logo-reseau-desclic.jpg"
-      lien : "https://www.editions-desclic.fr/"
-      alt : "Éditions Desclics"
+    - image : "https://coachingceme.fr/wp-content/uploads/2022/10/Mon-Eveil-Coaching-CEME-logo96-244x300.png"
+      lien : "https://coachingceme.fr/"
+      alt : "Coaching CEME"
     
 ################################## funfacts ###############################
 funfacts :
