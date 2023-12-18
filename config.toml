@@ -131,6 +131,10 @@ name = "Mentions légales"
 URL = "mentions-legales"
 weight = 1
 
+name = "MCP Médiation"
+URL = "/uploads/Convention-MCPmediation-Stephanie-Lacassagne.pdf"
+weight = 2
+
 
 ########################### Default parameters ######################
 [params]
