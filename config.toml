@@ -133,7 +133,7 @@ weight = 1
 
 [[menu.footer]]
 name = "MCP Médiation"
-URL = "/uploads/Convention-MCPmediation-Stephanie-Lacassagne.pdf"
+URL = "Convention-MCPmediation.html"
 weight = 2
 
 
