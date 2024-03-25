@@ -84,6 +84,10 @@ partenaires :
       image_webp : "images/about/logo-reseau-desclic.webp"
       lien : "https://www.editions-desclic.fr/"
       alt : "Éditions Desclics"
+      - image : "images/about/logo_AETSC-600.jpg"
+      image_webp : "images/about/logo_AETSC-600.webp"
+      lien : "https://aestc.org/"
+      alt : "Association Européenne de Sexothérapie et de Thérapie de couple"
 
 ################################## contact ###############################
 contact :
