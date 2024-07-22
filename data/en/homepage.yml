@@ -88,6 +88,10 @@ partenaires :
       image_webp : "images/about/logo_AETSC-600.webp"
       lien : "https://aestc.org/"
       alt : "Association Européenne de Sexothérapie et de Thérapie de couple"
+    - image : "images/about/attestation-acenos-2024.jpg"
+      image_webp : "images/about/attestation-acenos-2024.webp"
+      lien : "#"
+      alt : "Attestation ACENOS 2024"
 
 ################################## contact ###############################
 contact :
