@@ -76,10 +76,10 @@
 {{ "<!-- partenaires -->" | safeHTML }}
 <div>
   <div class="container">
-    <div class="row p-5" style="vertical-align: middle;">
+    <div class="row p-5">
       {{ range .partenaires_item }}
       {{ "<!-- partenaires item -->" | safeHTML }}
-      <div class="col-md col-sm mb-4 mb-md-0">
+      <div class="col-md col-sm mb-4 mb-md-0" style="vertical-align: middle;">
         <div class="d-flex">
           <a href="{{ .lien }}" rel="noopener noreferrer nofollow" target="_blank">
           <img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}" width="150">
