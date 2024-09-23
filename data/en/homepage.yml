@@ -78,7 +78,7 @@ partenaires :
       alt : "logo IFPEC"
     - image : "images/about/logo-SNSC.jpg"
       image_webp : "images/about/logo-SNSC.webp"
-      lien : "https://www.snsc.fr/people"
+      lien : "https://www.snsc.fr/"
       alt : "logo SNSC"
     - image : "images/about/logo-reseau-desclic.jpg"
       image_webp : "images/about/logo-reseau-desclic.webp"
@@ -90,7 +90,7 @@ partenaires :
       alt : "Association Européenne de Sexothérapie et de Thérapie de couple"
     - image : "images/about/attestation-acenos-2024.jpg"
       image_webp : "images/about/attestation-acenos-2024.webp"
-      lien : "#"
+      lien : "/images/about/attestation-acenos-2024.webp"
       alt : "Attestation ACENOS 2024"
 
 ################################## contact ###############################
