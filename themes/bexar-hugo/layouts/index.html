@@ -80,9 +80,9 @@
       {{ range .partenaires_item }}
       {{ "<!-- partenaires item -->" | safeHTML }}
       <div class="col-md col-sm mb-4 mb-md-0">
-        <div class="d-flex" style="vertical-align: middle;">
+        <div class="d-flex">
           <a href="{{ .lien }}" rel="noopener noreferrer nofollow" target="_blank">
-          <img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}" width="150">
+          <img class="img-fluid" style="vertical-align: middle;" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}" width="150">
           </a>
         </div>
       </div>
