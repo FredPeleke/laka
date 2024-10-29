@@ -1,5 +1,5 @@
 ---
-title: "Mentions légales"
+title: "Convention MCP Médiation"
 # meta description
 description: "Règlement amiable des litiges et Médiation de la consommation de la Convention MCP Médiation, ainsi que le contrat de médiation."
 # page title background image
