@@ -133,7 +133,7 @@ weight = 1
 
 [[menu.footer]]
 name = "MCP Médiation"
-URL = "mcpmediation"
+URL = "convention-mcpmediation"
 weight = 2
 
 ########################### Default parameters ######################
