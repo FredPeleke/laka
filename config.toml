@@ -131,7 +131,10 @@ name = "Mentions légales"
 URL = "mentions-legales"
 weight = 1
 
-
+[[menu.footer]]
+name = "convention MCP Médiation"
+URL = "convention-mcpmediation"
+weight = 2
 
 ########################### Default parameters ######################
 [params]
