@@ -122,11 +122,11 @@ contact2 :
       lien : "https://www.bayonneshopping.com/magasin/librairie-chez-simone/"
       alt : "Librairie Chez Simone"
     - image : "images/about/Ligue-contre-le-cancer-Logo-64.jpg"
-      lien : "#"
+      lien : "https://www.ligue-cancer.net/64-pyreneesatlantiques"
       alt : "Ligue contre le cancer"
-    - image : "https://coachingceme.fr/wp-content/uploads/2022/10/Mon-Eveil-Coaching-CEME-logo96-244x300.png"
-      lien : "https://coachingceme.fr/"
-      alt : "Coaching CEME"
+    - image : "https://image.ausha.co/LTSCYb05zjLwuEhnjF6QO8TLAf0lMli01Tn0Zq6V_400x400.jpeg"
+      lien : "https://podcast.ausha.co/sex-and-roses"
+      alt : "Sex and Roses"
     
 ################################## funfacts ###############################
 funfacts :
