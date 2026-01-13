@@ -90,7 +90,7 @@ partenaires :
       alt : "Association Européenne de Sexothérapie et de Thérapie de couple"
     - image : "images/about/attestation-ACENOS-2026_297975LS2009.jpeg"
       image_webp : "images/about/attestation-ACENOS-2026_297975LS2009.webp"
-      lien : "#"
+      lien : "/images/about/attestation-ACENOS-2026_297975LS2009.jpeg"
       alt : "Attestation ACENOS 2026 n°297975LS2009"
 
 ################################## contact ###############################
