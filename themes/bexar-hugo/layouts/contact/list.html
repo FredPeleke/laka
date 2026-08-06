@@ -36,16 +36,39 @@
 {{ "<!-- /contact item -->" | safeHTML }}
 
 <!-- lien saint-esprit-sante -->
-<div class="container">
+<!--div class="container">
 <div class="d-flex align-items-center">
   <a style="justify-content:center;align-items:center;" href="https://saint-esprit-sante.com/" rel="noopener" target="_blank">
     <img class="img-fluid" src="https://saint-esprit-sante.com/wp-content/uploads/2025/01/b2c50385-a638-4708-9c7e-32891de67f24.png"  alt="logo et lien Maison de Santé Pluriprofessionnelle Saint-Esprit Santé" width="250" style="vertical-align: middle;">
   </a>
 </div>
-</div>
+</div-->
 <!-- /lien saint-esprit-sante -->
 
 <!-- logos partenaires -->
+{{ if $data.homepage.contact3.enable }}
+{{ with $data.homepage.contact3 }}
+{{ "<!-- contact -->" | safeHTML }}
+<div>
+  <div class="container">
+    <div class="row p-5">
+      {{ range .contact3_item }}
+      {{ "<!-- contact item -->" | safeHTML }}
+      <div class="col-md col-sm mb-4 mb-md-0">
+        <div class="d-flex align-items-center">
+          <a href="{{ .lien }}" rel="noopener" target="_blank">
+          <img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}" width="170" style="vertical-align: middle;">
+          </a>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ "<!-- /contact -->" | safeHTML }}
+{{ end }}
+{{ end }}
+
 {{ if $data.homepage.contact.enable }}
 {{ with $data.homepage.contact }}
 {{ "<!-- contact -->" | safeHTML }}
@@ -76,29 +99,6 @@
   <div class="container">
     <div class="row p-5">
       {{ range .contact2_item }}
-      {{ "<!-- contact item -->" | safeHTML }}
-      <div class="col-md col-sm mb-4 mb-md-0">
-        <div class="d-flex align-items-center">
-          <a href="{{ .lien }}" rel="noopener" target="_blank">
-          <img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.src='{{.image | absURL }}'" alt="{{ .alt | markdownify }}" width="170" style="vertical-align: middle;">
-          </a>
-        </div>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</div>
-{{ "<!-- /contact -->" | safeHTML }}
-{{ end }}
-{{ end }}
-
-{{ if $data.homepage.contact3.enable }}
-{{ with $data.homepage.contact3 }}
-{{ "<!-- contact -->" | safeHTML }}
-<div>
-  <div class="container">
-    <div class="row p-5">
-      {{ range .contact3_item }}
       {{ "<!-- contact item -->" | safeHTML }}
       <div class="col-md col-sm mb-4 mb-md-0">
         <div class="d-flex align-items-center">
