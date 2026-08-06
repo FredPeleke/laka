@@ -131,7 +131,7 @@ contact2 :
 ################################## contact 3 ###############################
 contact3 :
   enable : true
-  contact_item :
+  contact3_item :
     - image : "uploads/logo-Boostup_multicolore-3.png"
       lien : "https://www.boostupsante.fr/"
       alt : "Boostup Santé"
