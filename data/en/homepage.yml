@@ -129,7 +129,7 @@ contact2 :
       alt : "Sex and Roses"
     
 ################################## contact 3 ###############################
-contact :
+contact3 :
   enable : true
   contact_item :
     - image : "uploads/logo-Boostup_multicolore-3.png"
