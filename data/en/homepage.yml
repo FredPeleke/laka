@@ -128,6 +128,14 @@ contact2 :
       lien : "https://podcast.ausha.co/sex-and-roses"
       alt : "Sex and Roses"
     
+################################## contact 3 ###############################
+contact :
+  enable : true
+  contact_item :
+    - image : "uploads/logo-Boostup_multicolore-3.png"
+      lien : "https://www.boostupsante.fr/"
+      alt : "Boostup Santé"
+
 ################################## funfacts ###############################
 funfacts :
   enable : false
