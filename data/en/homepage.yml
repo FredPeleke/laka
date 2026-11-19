@@ -132,6 +132,12 @@ contact2 :
 contact3 :
   enable : true
   contact3_item :
+    - image : "uploads/Belamou-logo-porte.jpg"
+      lien : "https://cartes.gouv.fr/explorer-les-cartes/?c=-1.466027,43.495910&z=15&l=GEOGRAPHICALGRIDSYSTEMS.PLANIGNV2$GEOPORTAIL:OGC:WMTS(1;1;1;0)&permalink=yes"
+      alt : "Espace Belamou"
+    - image : "uploads/Belamou-bureau.jpeg"
+      lien : "uploads/Belamou-bureau.jpeg"
+      alt : "Espace Belamou, mon lieu de rencontre confidentiel"
     - image : "uploads/logo-Boostup_multicolore-3.png"
       lien : "https://www.boostupsante.fr/"
       alt : "Boostup Santé"
